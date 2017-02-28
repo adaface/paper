@@ -1,0 +1,1646 @@
+http://www.sciencedirect.com/science?_ob=DownloadURL&_method=finish&searchtype=a&refSource=search&pdfDownloadSort=r&PDF_DDM_MAX=25&_st=13&count=430&sort=r&filterType=&_chunk=0&hitCount=430&NEXT_LIST=1&view=c&_ArticleListID=-1154927939&chunkSize=25&sisr_search=&TOTAL_PAGES=18&pdfDownload=&zone=exportDropDown&citation-type=ASCII&format=cite&export=Export&bottomPaginationBoxChanged=&displayPerPageFlag=f&resultsPerPage=25&md5=f3c1873bc06b695645bce89bf1c864c3
+
+
+Dinesh Kumar, Shibayan Sarkar, Numerical investigation of hydraulic load and stress induced in Savonius hydrokinetic turbine with the effects of augmentation techniques through fluid-structure interaction analysis, Energy, Volume 116, Part 1, 1 December 2016, Pages 609-618, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.10.012.
+(http://www.sciencedirect.com/science/article/pii/S0360544216314335)
+Keywords: CFD; FEM; Hydraulic load; Induced stress; Augmentation techniques; Fatigue crack
+
+YaJun Fan, AnLe Mu, Tao Ma, Modeling and control of a hybrid wind-tidal turbine with hydraulic accumulator, Energy, Volume 112, 1 October 2016, Pages 188-199, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.072.
+(http://www.sciencedirect.com/science/article/pii/S0360544216308465)
+Keywords: Offshore wind turbine; Tidal current turbine; Hydraulic transmission; Hydraulic accumulator; Pelton turbine
+
+Xiaohui Yuan, Zhihuan Chen, Yanbin Yuan, Yuehua Huang, Design of fuzzy sliding mode controller for hydraulic turbine regulating system via input state feedback linearization method, Energy, Volume 93, Part 1, 15 December 2015, Pages 173-187, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.025.
+(http://www.sciencedirect.com/science/article/pii/S0360544215012190)
+Keywords: Hydraulic turbine regulating system; Input state feedback linearization; Sliding mode control; Fuzzy logic control; Load frequency control
+
+Daniel Buhagiar, Tonio Sant, Christopher Micallef, Robert N. Farrugia, Improving the energy yield from an open loop hydraulic offshore turbine through deep sea water extraction and alternative control schemes, Energy, Volume 84, 1 May 2015, Pages 344-356, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544215002820)
+Keywords: Offshore wind turbine; Hybrid system; Hydraulic transmission; Seawater cooling
+
+Xiaodong Yu, Jian Zhang, Chengyu Fan, Sheng Chen, Stability analysis of governor-turbine-hydraulic system by state space method and graph theory, Energy, Volume 114, 1 November 2016, Pages 613-622, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.07.164.
+(http://www.sciencedirect.com/science/article/pii/S0360544216310970)
+Keywords: Hydropower station; Stability analysis; State matrix; Small fluctuation; Modeling
+
+S. Barbarelli, M. Amelio, G. Florio, Predictive model estimating the performances of centrifugal pumps used as turbines, Energy, Volume 107, 15 July 2016, Pages 103-121, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.122.
+(http://www.sciencedirect.com/science/article/pii/S0360544216303693)
+Keywords: Hydropower; Model; Experimental; Pump as turbine; Hydraulic losses estimation; Prediction indicator
+
+Punit Singh, The choice between turbine expanders and variable speed pumps as replacement for throttling devices in non-thermal process applications, Energy, Volume 123, 15 March 2017, Pages 198-217, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.124.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301317)
+Keywords: Energy recovery; Throttle; Turbine expander; Variable speed pump; Part-flow; Process applications; Pump as turbine
+
+Biraj Singh Thapa, Bhola Thapa, Ole Gunnar Dahlhaug, Current research in hydraulic turbines for handling sediments, Energy, Volume 47, Issue 1, November 2012, Pages 62-69, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.05.014.
+(http://www.sciencedirect.com/science/article/pii/S0360544212003933)
+Keywords: Sediment erosion; Francis turbine; CFD; Design optimization
+
+José Ramón Serrano, Andrés Tiseira, Luis Miguel García-Cuevas, Lukas Benjamin Inhestern, Hadi Tartousi, Radial turbine performance measurement under extreme off-design conditions, Energy, Available online 22 February 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.118.
+(http://www.sciencedirect.com/science/article/pii/S0360544217303018)
+Keywords: Turbocharger; Model; Mean-line model; Radial turbine simulation; Off-design; High BSR
+
+Junaid H. Masoodi, G.A. Harmain, A methodology for assessment of erosive wear on a Francis turbine runner, Energy, Volume 118, 1 January 2017, Pages 644-657, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.10.095.
+(http://www.sciencedirect.com/science/article/pii/S0360544216315407)
+Keywords: Sediment; Erosion; Francis turbine; Relative velocity; Modelling
+
+Chun-wei Gu, Hao Wang, Xing-xing Ji, Xue-song Li, Development and application of a thermodynamic-cycle performance analysis method of a three-shaft gas turbine, Energy, Volume 112, 1 October 2016, Pages 307-321, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.094.
+(http://www.sciencedirect.com/science/article/pii/S0360544216308684)
+Keywords: Thermodynamic-cycle calculation method; Experimental analysis; Three-shaft gas turbine; Hybrid cooling model
+
+Vishal Gupta, Vishnu Prasad, Ruchi Khare, Numerical simulation of six jet Pelton turbine model, Energy, Volume 104, 1 June 2016, Pages 24-32, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.110.
+(http://www.sciencedirect.com/science/article/pii/S0360544216303577)
+Keywords: Multiphase flow; Pelton turbine; Numerical simulation; Runner; Nozzle
+
+Giovanni Manente, Luca Da Lio, Andrea Lazzaretto, Influence of axial turbine efficiency maps on the performance of subcritical and supercritical Organic Rankine Cycle systems, Energy, Volume 107, 15 July 2016, Pages 761-772, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.063.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304765)
+Keywords: Organic Rankine Cycles; Supercritical; Axial flow turbine; Turbine efficiency; Hydrofluoroolefins; Global warming potential
+
+Jian Yang, Dongran Song, Mi Dong, Sifan Chen, Libing Zou, Josep M. Guerrero, Comparative studies on control systems for a two-blade variable-speed wind turbine with a speed exclusion zone, Energy, Volume 109, 15 August 2016, Pages 294-309, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.106.
+(http://www.sciencedirect.com/science/article/pii/S0360544216305199)
+Keywords: Two-blade variable speed wind turbine; Control system; Speed exclusion zone; Tower resonance; Power capture; Tower loads
+
+Manuel Valdés, Rubén Abbas, Antonio Rovira, Javier Martín-Aragón, Thermal efficiency of direct, inverse and sCO2 gas turbine cycles intended for small power plants, Energy, Volume 100, 1 April 2016, Pages 66-72, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.01.072.
+(http://www.sciencedirect.com/science/article/pii/S036054421600102X)
+Keywords: Low Reynolds number; Small gas turbine; sCO2 cycle; Scaling down gas turbines
+
+B. Ssebabi, R.T. Dobson, A.B. Sebitosi, Characterising a turbine for application in an organic Rankine cycle, Energy, Volume 93, Part 2, 15 December 2015, Pages 1617-1632, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544215013912)
+Keywords: Low grade waste heat recovery and utilisation systems; Organic Rankine cycle; Turbine performance characteristics
+
+Pankaj P. Gohil, R.P. Saini, Effect of temperature, suction head and flow velocity on cavitation in a Francis turbine of small hydro power plant, Energy, Volume 93, Part 1, 15 December 2015, Pages 613-624, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.042.
+(http://www.sciencedirect.com/science/article/pii/S0360544215012529)
+Keywords: Cavitation rate; Efficiency loss; Francis turbine; CFX
+
+Matthias Kramer, Kristina Terheiden, Silke Wieprecht, Optimized design of impulse turbines in the micro-hydro sector concerning air detrainment processes, Energy, Volume 93, Part 2, 15 December 2015, Pages 2604-2613, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544215013869)
+Keywords: Pelton turbine; Micro-hydropower; Tailwater depression; Counter pressure operation; Air detrainment; Drinking water system
+
+Yin Song, Chun-wei Gu, Xing-xing Ji, Development and validation of a full-range performance analysis model for a three-spool gas turbine with turbine cooling, Energy, Volume 89, September 2015, Pages 545-557, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.015.
+(http://www.sciencedirect.com/science/article/pii/S0360544215007264)
+Keywords: Gas turbine; Performance analysis; Cooling; Multi-spool; Part-load
+
+Bruno Pereiras, Iván López, Francisco Castro, Gregorio Iglesias, Non-dimensional analysis for matching an impulse turbine to an OWC (oscillating water column) with an optimum energy transfer, Energy, Volume 87, 1 July 2015, Pages 481-489, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.05.018.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005721)
+Keywords: Wave energy; OWC; Optimum damping; Impulse turbine
+
+Yongyao Luo, Zhengwei Wang, Xin Liu, Yexiang Xiao, Changkun Chen, Haoping Wang, Jianhua Yan, Numerical prediction of pressure pulsation for a low head bidirectional tidal bulb turbine, Energy, Volume 89, September 2015, Pages 730-738, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544215007707)
+Keywords: Tidal energy; Bidirectional; Bulb turbine; Numerical simulation; Pressure pulsation
+
+Kiyarash Rahbar, Saad Mahmoud, Raya K. Al-Dadah, Nima Moazami, Parametric analysis and optimization of a small-scale radial turbine for Organic Rankine Cycle, Energy, Volume 83, 1 April 2015, Pages 696-711, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.02.079.
+(http://www.sciencedirect.com/science/article/pii/S0360544215002340)
+Keywords: Organic Rankine Cycle; Radial turbine; Mean-line modelling; Genetic algorithm optimization; Organic working fluids
+
+Dag Herman Zeiner-Gundersen, A vertical axis hydrodynamic turbine with flexible foils, passive pitching, and low tip speed ratio achieves near constant RPM, Energy, Volume 77, 1 December 2014, Pages 297-304, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.08.008.
+(http://www.sciencedirect.com/science/article/pii/S036054421400944X)
+Keywords: Morphing blade; Passive pitching; Vertical axis hydrodynamic turbine
+
+Enrico Sciubba, Air-cooled gas turbine cycles – Part 1: An analytical method for the preliminary assessment of blade cooling flow rates, Energy, Volume 83, 1 April 2015, Pages 104-114, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.107.
+(http://www.sciencedirect.com/science/article/pii/S0360544215001450)
+Keywords: Gas turbine blade cooling; Gas turbine thermodynamics; Blade cooling effectiveness
+
+Wei-Haur Lam, Long Chen, Roslan Hashim, Analytical wake model of tidal current turbine, Energy, Volume 79, 1 January 2015, Pages 512-521, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.11.047.
+(http://www.sciencedirect.com/science/article/pii/S0360544214013024)
+Keywords: Tidal-current turbine; Efflux velocity; Wake
+
+M. Sánchez, R. Carballo, V. Ramos, G. Iglesias, Energy production from tidal currents in an estuary: A comparative study of floating and bottom-fixed turbines, Energy, Volume 77, 1 December 2014, Pages 802-811, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.09.053.
+(http://www.sciencedirect.com/science/article/pii/S0360544214011098)
+Keywords: Tidal stream energy; Tidal turbine; Ria de Ortigueira; Estuary; Numerical modelling
+
+Onder Turan, Hakan Aydin, Exergetic and exergo-economic analyses of an aero-derivative gas turbine engine, Energy, Volume 74, 1 September 2014, Pages 638-650, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.07.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544214008512)
+Keywords: LM6000; Energy; Exergy; Exergo-economy; Cogeneration; Aero derivative gas turbine
+
+Shahaboddin Shamshirband, Dalibor Petković, Amineh Amini, Nor Badrul Anuar, Vlastimir Nikolić, Žarko Ćojbašić, Miss Laiha Mat Kiah, Abdullah Gani, Support vector regression methodology for wind turbine reaction torque prediction with power-split hydrostatic continuous variable transmission, Energy, Volume 67, 1 April 2014, Pages 623-630, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.111.
+(http://www.sciencedirect.com/science/article/pii/S0360544214001339)
+Keywords: Wind turbine; Continuous variable transmission; Power-split hydrostatic; Support vector machine; Support vector regression
+
+Dalibor Petković, Žarko Ćojbašić, Vlastimir Nikolić, Shahaboddin Shamshirband, Miss Laiha Mat Kiah, Nor Badrul Anuar, Ainuddin Wahid Abdul Wahab, Adaptive neuro-fuzzy maximal power extraction of wind turbine with continuously variable transmission, Energy, Volume 64, 1 January 2014, Pages 868-874, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.10.094.
+(http://www.sciencedirect.com/science/article/pii/S0360544213009614)
+Keywords: Wind turbine; Power coefficient; Continuously variable transmission; Intelligent control; ANFIS controller
+
+Paolo Silva, Antonio Giuffrida, Nicola Fergnani, Ennio Macchi, Matteo Cantù, Roberto Suffredini, Massimo Schiavetti, Gianluca Gigliucci, Performance prediction of a multi-MW wind turbine adopting an advanced hydrostatic transmission, Energy, Volume 64, 1 January 2014, Pages 450-461, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.11.034.
+(http://www.sciencedirect.com/science/article/pii/S0360544213009961)
+Keywords: Wind turbine; Hydrostatic transmission; Energy model; Energy production; Drive-train layout
+
+Baigong Wu, Xueming Zhang, Jianmei Chen, Mingqi Xu, Shuangxin Li, Guangzhe Li, Design of high-efficient and universally applicable blades of tidal stream turbine, Energy, Volume 60, 1 October 2013, Pages 187-194, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.061.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006671)
+Keywords: The tidal stream turbine; Schmitz theory; Startup torque; Cavitations; Stall
+
+J. Chen, H.X. Yang, C.P. Liu, C.H. Lau, M. Lo, A novel vertical axis water turbine for power generation from water pipelines, Energy, Volume 54, 1 June 2013, Pages 184-193, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.01.064.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000959)
+Keywords: Water pipeline monitor; Hydro power; Vertical axis water turbine; Drag-type; Lift-type; CFD simulation and experimental test
+
+Biraj Singh Thapa, Bhola Thapa, Ole G. Dahlhaug, Empirical modelling of sediment erosion in Francis turbines, Energy, Volume 41, Issue 1, May 2012, Pages 386-391, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.066.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001806)
+Keywords: Turbine; Sediment; Erosion; Modelling; Efficiency
+
+Paulo Eduardo Batista de Mello, Deiglys Borges Monteiro, Thermodynamic study of an EFGT (externally fired gas turbine) cycle with one detailed model for the ceramic heat exchanger, Energy, Volume 45, Issue 1, September 2012, Pages 497-502, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.01.003.
+(http://www.sciencedirect.com/science/article/pii/S0360544212000084)
+Keywords: EFGT cycle; HTHE; Gas turbines; Biomass; Coal
+
+Srithar Rajoo, Alessandro Romagnoli, Ricardo F. Martinez-Botas, Unsteady performance analysis of a twin-entry variable geometry turbocharger turbine, Energy, Volume 38, Issue 1, February 2012, Pages 176-189, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.12.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544211008115)
+Keywords: Turbochargers; Aerodynamic efficiency; Unsteady flows; Turbines
+
+Jong Jun Lee, Do Won Kang, Tong Seop Kim, Development of a gas turbine performance analysis program and its application, Energy, Volume 36, Issue 8, August 2011, Pages 5274-5285, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.06.032.
+(http://www.sciencedirect.com/science/article/pii/S0360544211004178)
+Keywords: Gas turbine; Simulation; Simple cycle; Recuperative cycle; Reheat cycle; Deviation
+
+Xiande Fang, Yu Xu, Development of an empirical model of turbine efficiency using the Taylor expansion and regression analysis, Energy, Volume 36, Issue 5, May 2011, Pages 2937-2942, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.02.036.
+(http://www.sciencedirect.com/science/article/pii/S0360544211001149)
+Keywords: Turbine efficiency; Empirical model; Regression; Taylor series; Performance map; Mean value modeling
+
+M. Ammar, W. Chtourou, Z. Driss, M.S. Abid, Numerical investigation of turbulent flow generated in baffled stirred vessels equipped with three different turbines in one and two-stage system, Energy, Volume 36, Issue 8, August 2011, Pages 5081-5093, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.06.002.
+(http://www.sciencedirect.com/science/article/pii/S0360544211003793)
+Keywords: Agitation; Turbulence; CFD; Stirred tank; Rushton turbine; Multi reference frame
+
+M.K. Padhy, R.P. Saini, Study of silt erosion on performance of a Pelton turbine, Energy, Volume 36, Issue 1, January 2011, Pages 141-147, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.10.060.
+(http://www.sciencedirect.com/science/article/pii/S0360544210006237)
+Keywords: Efficiency loss; Pelton turbine; Silt concentration; Silt size; Operating hour; Jet velocity
+
+Baltasar Peñate, Lourdes García-Rodríguez, Energy optimisation of existing SWRO (seawater reverse osmosis) plants with ERT (energy recovery turbines): Technical and thermoeconomic assessment, Energy, Volume 36, Issue 1, January 2011, Pages 613-626, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.09.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544210005578)
+Keywords: Pelton turbines retrofit; Reverse osmosis seawater desalination; Lowest energy consumption; Higher capacity; Thermoeconomic assessment
+
+M.K. Padhy, R.P. Saini, Effect of size and concentration of silt particles on erosion of Pelton turbine buckets, Energy, Volume 34, Issue 10, October 2009, Pages 1477-1483, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.06.015.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002564)
+Keywords: Erosive wear; Pelton turbine; Silt concentration; Silt size; Correlation
+
+Hoseyn Sayyaadi, Hamid Reza Aminian, Design and optimization of a non-TEMA type tubular recuperative heat exchanger used in a regenerative gas turbine cycle, Energy, Volume 35, Issue 4, April 2010, Pages 1647-1657, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.12.011.
+(http://www.sciencedirect.com/science/article/pii/S0360544209005313)
+Keywords: Regenerative gas turbine; Multi-objective optimization; Tubular non-TEMA type heat exchanger; NSGA-II; Recuperator; Decision-making
+
+M. Sanchez, R. Carballo, V. Ramos, G. Iglesias, Floating vs. bottom-fixed turbines for tidal stream energy: A comparative impact assessment, Energy, Volume 72, 1 August 2014, Pages 691-701, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.05.096.
+(http://www.sciencedirect.com/science/article/pii/S036054421400663X)
+Keywords: Tidal currents; Energy exploitation; 3D numerical model; Impacts; Floating TSTs; Bottom-fixed TSTs
+
+Hoseyn Sayyaadi, Reza Mehrabipour, Efficiency enhancement of a gas turbine cycle using an optimized tubular recuperative heat exchanger, Energy, Volume 38, Issue 1, February 2012, Pages 362-375, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.048.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007791)
+Keywords: Efficiency enhancement; Payback time minimization; Multi-objective optimization; Bellman-Zadeh decision-making; LINMAP decision-making; TOPSIS decision-making
+
+Omer Baskut, Onder Ozgener, Leyla Ozgener, Second law analysis of wind turbine power plants: Cesme, Izmir example, Energy, Volume 36, Issue 5, May 2011, Pages 2535-2542, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.01.047.
+(http://www.sciencedirect.com/science/article/pii/S0360544211000703)
+Keywords: Exergy; Wind; Renewable energy
+
+Mehmet Kanoğlu, Cryogenic turbine efficiencies, Exergy, An International Journal, Volume 1, Issue 3, 2001, Pages 202-208, ISSN 1164-0235, http://dx.doi.org/10.1016/S1164-0235(01)00026-7.
+(http://www.sciencedirect.com/science/article/pii/S1164023501000267)
+
+Irfan Bahiuddin, Saiful Amri Mazlan, Fitrian Imaduddin, Ubaidillah, A New Control-Oriented Transient Model of Variable Geometry Turbocharger, Energy, Available online 22 February 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.123.
+(http://www.sciencedirect.com/science/article/pii/S0360544217303067)
+Keywords: variable geometry turbocharger; turbine; control-oriented model; engine exhaust gas; pulsated flow; extracted power
+
+K.A. Abed, Performance of a wind-turbine-driven compressor for lifting water, Energy, Volume 22, Issue 1, January 1997, Pages 21-26, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(96)00089-8.
+(http://www.sciencedirect.com/science/article/pii/S0360544296000898)
+
+L.A. Teran, R.D. Aponte, J. Muñoz-Cubillos, C.V. Roa, J.J. Coronado, J.A. Ladino, F.J. Larrahondo, S.A. Rodríguez, Analysis of economic impact from erosive wear by hard particles in a run-of-the-river hydroelectric plant, Energy, Volume 113, 15 October 2016, Pages 1188-1201, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.07.072.
+(http://www.sciencedirect.com/science/article/pii/S0360544216309963)
+Keywords: Francis turbines; Computational fluid dynamics; Erosive wear; Wear costs
+
+Valentina Orlandini, Leonardo Pierobon, Signe Schløer, Andrea De Pascale, Fredrik Haglind, Dynamic performance of a novel offshore power system integrated with a wind farm, Energy, Volume 109, 15 August 2016, Pages 236-247, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.073.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304868)
+Keywords: Oil and gas; Organic Rankine cycle; Gas turbine; Offshore wind; Integrated system
+
+Rafał Laskowski, Adam Smyk, Janusz Lewandowski, Artur Rusowicz, Andrzej Grzebielec, Selecting the cooling water mass flow rate for a power plant under variable load with entropy generation rate minimization, Energy, Volume 107, 15 July 2016, Pages 725-733, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.074.
+(http://www.sciencedirect.com/science/article/pii/S036054421630487X)
+Keywords: Cooling water mass flow rate; Entropy generation rate; Steam condenser; Steam turbine set
+
+S. Sivasegaram, An experimental investigation of a class of resistance-type, direction-independent wind turbines, Energy, Volume 3, Issue 1, February 1978, Pages 23-30, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(78)90053-1.
+(http://www.sciencedirect.com/science/article/pii/0360544278900531)
+
+Giovanna Cavazzini, Alberto Santolin, Giorgio Pavesi, Guido Ardizzon, Accurate estimation model for small and micro hydropower plants costs in hybrid energy systems modelling, Energy, Volume 103, 15 May 2016, Pages 746-757, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.024.
+(http://www.sciencedirect.com/science/article/pii/S0360544216302687)
+Keywords: Hybrid energy systems; Energy systems modelling; Small hydro; Electro-mechanical equipment cost; Turbine cost; Hydro project cost
+
+Yan-Jun Zhang, Liang-Liang Guo, Zheng-Wei Li, Zi-Wang Yu, Tian-Fu Xu, Cheng-Yu Lan, Electricity generation and heating potential from enhanced geothermal system in Songliao Basin, China: Different reservoir stimulation strategies for tight rock and naturally fractured formations, Energy, Volume 93, Part 2, 15 December 2015, Pages 1860-1885, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.059.
+(http://www.sciencedirect.com/science/article/pii/S0360544215014279)
+Keywords: Enhanced geothermal system; Hot dry rock; Hydraulic fracturing; Electricity generation; Heating potential; Optimal strategy
+
+Alberto Benato, Anna Stoppato, Alberto Mirandola, Dynamic behaviour analysis of a three pressure level heat recovery steam generator during transient operation, Energy, Volume 90, Part 2, October 2015, Pages 1595-1605, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.117.
+(http://www.sciencedirect.com/science/article/pii/S0360544215008737)
+Keywords: Plant flexibility; Combined cycle gas turbine; Dynamic model; Fatigue; Component residual life
+
+A.S. Bahaj, L.E. Myers, Shaping array design of marine current energy converters through scaled experimental analysis, Energy, Volume 59, 15 September 2013, Pages 83-94, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006105)
+Keywords: Marine current energy converters; Wake; Array; Turbine
+
+Jibin Hu, Wei Wu, Shihua Yuan, Chongbo Jing, Fuel combustion under asymmetric piston motion: Tested results, Energy, Volume 55, 15 June 2013, Pages 209-215, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.04.013.
+(http://www.sciencedirect.com/science/article/pii/S0360544213003137)
+Keywords: Free-piston engine; Asymmetric characteristics; Fuel combustion; Diesel engine
+
+V. Ramos, R. Carballo, M. Álvarez, M. Sánchez, G. Iglesias, Assessment of the impacts of tidal stream energy through high-resolution numerical modeling, Energy, Volume 61, 1 November 2013, Pages 541-554, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.08.051.
+(http://www.sciencedirect.com/science/article/pii/S0360544213007408)
+Keywords: High-resolution model; Tidal stream turbines; Tidal farm impacts; Galician ria
+
+Hamza Semmari, Driss Stitou, Sylvain Mauran, A novel Carnot-based cycle for ocean thermal energy conversion, Energy, Volume 43, Issue 1, July 2012, Pages 361-375, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.04.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544212002976)
+Keywords: Carnot engine; OTEC; Liquid piston; Thermo-hydraulic process
+
+Eduardo Ibanez, Timothy Magee, Mitch Clement, Gregory Brinkman, Michael Milligan, Edith Zagona, Enhancing hydropower modeling in variable generation integration studies, Energy, Volume 74, 1 September 2014, Pages 518-528, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.07.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544214008391)
+Keywords: Hydroelectric power generation; Optimization; Power system modeling; Renewable energy sources; Reservoirs
+
+I. Janghorban Esfahani, C.K. Yoo, Exergy analysis and parametric optimization of three power and fresh water cogeneration systems using refrigeration chillers, Energy, Volume 59, 15 September 2013, Pages 340-355, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.040.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006452)
+Keywords: Cogeneration; Exergy; GT (gas turbine); Optimization; RO (reverse osmosis)
+
+Dimitris Al. Katsaprakakis, Dimitris G. Christakis, Ioannis Stefanakis, Petros Spanos, Nikos Stefanakis, Technical details regarding the design, the construction and the operation of seawater pumped storage systems, Energy, Volume 55, 15 June 2013, Pages 619-630, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.01.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000510)
+Keywords: Seawater pumped storage; Renewable energy; Wind parks/farms/turbines; Hybrid power plants; Isolated non-interconnected insular systems; Desalination
+
+Abdul Motin Howlader, Yuya Izumi, Akie Uehara, Naomitsu Urasaki, Tomonobu Senjyu, Atsushi Yona, Ahmed Yousuf Saber, A minimal order observer based frequency control strategy for an integrated wind-battery-diesel power system, Energy, Volume 46, Issue 1, October 2012, Pages 168-178, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.08.039.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006706)
+Keywords: Wind turbine generator; Frequency control; Battery energy storage system; Minimal order observer; Load estimation
+
+Atul Lanjewar, J.L. Bhagoria, R.M. Sarviya, Heat transfer and friction in solar air heater duct with W-shaped rib roughness on absorber plate, Energy, Volume 36, Issue 7, July 2011, Pages 4531-4541, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.03.054.
+(http://www.sciencedirect.com/science/article/pii/S0360544211002222)
+Keywords: Artificial roughness; Heat transfer enhancement; Solar air heater; Thermo-hydraulic performance; W-ribs
+
+V. D’Alessandro, S. Montelpare, R. Ricci, A. Secchiaroli, Unsteady Aerodynamics of a Savonius wind rotor: a new computational approach for the simulation of energy performance, Energy, Volume 35, Issue 8, August 2010, Pages 3349-3363, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.04.021.
+(http://www.sciencedirect.com/science/article/pii/S0360544210002136)
+Keywords: Savonius; Vertical axis wind turbine; Computational fluid-dynamics; Wind tunnel testing
+
+Niall Fitzgerald, Roberto Lacal Arántegui, Eamon McKeogh, Paul Leahy, A GIS-based model to calculate the potential for transforming conventional hydropower schemes and non-hydro reservoirs to pumped hydropower schemes, Energy, Volume 41, Issue 1, May 2012, Pages 483-490, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.044.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001399)
+Keywords: Energy storage; Geographical information systems; Turkey; Renewable energy; Dams; Hydropower
+
+J.C.C. Henriques, L.M.C. Gato, J.M. Lemos, R.P.F. Gomes, A.F.O. Falcão, Peak-power control of a grid-integrated oscillating water column wave energy converter, Energy, Volume 109, 15 August 2016, Pages 378-390, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.098.
+(http://www.sciencedirect.com/science/article/pii/S0360544216305114)
+Keywords: Wave energy; Oscillating water column; Latching control; Peak-to-average power ratio control; OWC spar-buoy
+
+Önder Turan, Hakan Aydın, Numerical calculation of energy and exergy flows of a turboshaft engine for power generation and helicopter applications, Energy, Volume 115, Part 1, 15 November 2016, Pages 914-923, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.09.070.
+(http://www.sciencedirect.com/science/article/pii/S036054421631310X)
+Keywords: Flight physics; Energy; Numerical calculation; Exergy; Turboshaft; Helicopter
+
+Harald Taxt Walnum, Petter Nekså, Lars O. Nord, Trond Andresen, Modelling and simulation of CO2 (carbon dioxide) bottoming cycles for offshore oil and gas installations at design and off-design conditions, Energy, Volume 59, 15 September 2013, Pages 513-520, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.06.071.
+(http://www.sciencedirect.com/science/article/pii/S0360544213005719)
+Keywords: Offshore; Bottoming cycle; CO2 power cycle; Off-design; Modelling and simulation
+
+R. Salgado, J.F. Belmonte, J.A. Almendros-Ibáñez, A.E. Molina, Integration of absorption refrigeration systems into Rankine power cycles to reduce water consumption: A thermodynamic analysis, Energy, Volume 119, 15 January 2017, Pages 1084-1097, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.11.065.
+(http://www.sciencedirect.com/science/article/pii/S0360544216316942)
+Keywords: Rankine power cycle; Absorption refrigeration system; Dry cooling technologies; Water consumption in power plants
+
+Bilal Ahmed Qureshi, Syed M. Zubair, Exergetic analysis of a brackish water reverse osmosis desalination unit with various energy recovery systems, Energy, Volume 93, Part 1, 15 December 2015, Pages 256-265, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.003.
+(http://www.sciencedirect.com/science/article/pii/S0360544215011895)
+Keywords: Exergy analysis; Brackish water; Pressure retarded osmosis; Energy recovery device; Reverse osmosis; Desalination
+
+Nikolaos F. Sakellaridis, Spyridon I. Raptotasios, Antonis K. Antonopoulos, Georgios C. Mavropoulos, Dimitrios T. Hountalas, Development and validation of a new turbocharger simulation methodology for marine two stroke diesel engine modelling and diagnostic applications, Energy, Volume 91, November 2015, Pages 952-966, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.049.
+(http://www.sciencedirect.com/science/article/pii/S036054421501124X)
+Keywords: Two stroke diesel engine; Turbocharger simulation; Engine cycle simulation; Meanline model
+
+M. Reali, Submarine hydro-electro-osmotic power plants for an efficient exploitation of salinity gradients, Energy, Volume 6, Issue 3, March 1981, Pages 227-231, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90047-5.
+(http://www.sciencedirect.com/science/article/pii/0360544281900475)
+
+W.G. Le Roux, T. Bello-Ochende, J.P. Meyer, Optimum performance of the small-scale open and direct solar thermal Brayton cycle at various environmental conditions and constraints, Energy, Volume 46, Issue 1, October 2012, Pages 42-50, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.03.034.
+(http://www.sciencedirect.com/science/article/pii/S0360544212002253)
+Keywords: Optimum; Solar; Brayton; Receiver; Recuperator; Geometry
+
+Emanuele Martelli, Federico Capra, Stefano Consonni, Numerical optimization of Combined Heat and Power Organic Rankine Cycles – Part A: Design optimization, Energy, Volume 90, Part 1, October 2015, Pages 310-328, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.111.
+(http://www.sciencedirect.com/science/article/pii/S0360544215008671)
+Keywords: Power cycles; District-heating; Cogeneration; Dry-expansion fluids; Cost model; Black-box optimization
+
+Jiangfeng Wang, Zhequan Yan, Man Wang, Shaolin Ma, Yiping Dai, Thermodynamic analysis and optimization of an (organic Rankine cycle) ORC using low grade heat source, Energy, Volume 49, 1 January 2013, Pages 356-365, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.11.009.
+(http://www.sciencedirect.com/science/article/pii/S0360544212008675)
+Keywords: ORC (organic Rankine cycle); Optimization; Low grade heat source; Thermodynamic analysis; Genetic algorithm
+
+P.F. Pelz, M. Holl, M. Platzer, Analytical method towards an optimal energetic and economical wind-energy converter, Energy, Volume 94, 1 January 2016, Pages 344-351, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.128.
+(http://www.sciencedirect.com/science/article/pii/S0360544215015066)
+Keywords: Energy Ship; Coefficient of performance; Renewable energy; Hydrogen production; Energetic and economical optimization; Pareto-frontier
+
+Ramazan Atılgan, Önder Turan, Önder Altuntaş, Hakan Aydın, Kateryna Synylo, Environmental impact assessment of a turboprop engine with the aid of exergy, Energy, Volume 58, 1 September 2013, Pages 664-671, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.05.064.
+(http://www.sciencedirect.com/science/article/pii/S0360544213004945)
+Keywords: Exergo-environmental analysis; Regional aircraft; Turboprop; Exergy; Life cycle assessment
+
+V.C. Sharma, A. Sharma, Development of hydro-power in Nigeria, Energy, Volume 6, Issue 6, June 1981, Pages 475-478, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90052-9.
+(http://www.sciencedirect.com/science/article/pii/0360544281900529)
+
+Falah Alobaid, Stefan Pfeiffer, Bernd Epple, Chil-Yeong Seon, Hyun-Gee Kim, Fast start-up analyses for Benson heat recovery steam generator, Energy, Volume 46, Issue 1, October 2012, Pages 295-309, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.08.020.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006512)
+Keywords: Benson heat recovery steam generator; Once-through; Advanced control circuits; Load changes; Dynamic simulation; Fast start-up procedures
+
+J. Kim, C. Park, Wind power generation with a parawing on ships, a proposal, Energy, Volume 35, Issue 3, March 2010, Pages 1425-1432, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.11.027.
+(http://www.sciencedirect.com/science/article/pii/S0360544209005167)
+Keywords: Wind power; Ethanol production; Carbon dioxide abatement
+
+Vito Tič, Tadej Tašner, Darko Lovrec, Enhanced lubricant management to reduce costs and minimise environmental impact, Energy, Volume 77, 1 December 2014, Pages 108-116, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.05.030.
+(http://www.sciencedirect.com/science/article/pii/S0360544214005799)
+Keywords: Lubricant management; Condition monitoring; Remaining useful lifetime
+
+V. Ramos, R. Carballo, M. Álvarez, M. Sánchez, G. Iglesias, A port towards energy self-sufficiency using tidal stream power, Energy, Volume 71, 15 July 2014, Pages 432-444, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.098.
+(http://www.sciencedirect.com/science/article/pii/S0360544214005295)
+Keywords: Tidal energy; Port of Ribadeo; Power performance; Tidal farm
+
+D Manolakos, G Papadakis, D Papantonis, S Kyritsis, A stand-alone photovoltaic power system for remote villages using pumped water energy storage, Energy, Volume 29, Issue 1, January 2004, Pages 57-69, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2003.08.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544203002196)
+
+Antonio Giuffrida, Matteo C. Romano, Giovanni Lozza, Efficiency enhancement in IGCC power plants with air-blown gasification and hot gas clean-up, Energy, Volume 53, 1 May 2013, Pages 221-229, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.007.
+(http://www.sciencedirect.com/science/article/pii/S0360544213001114)
+Keywords: IGCC; Air-blown; Gasification; Hot gas clean-up; Desulfurization; Zinc-based sorbent
+
+J. Demierre, S. Henchoz, D. Favrat, Prototype of a thermally driven heat pump based on integrated Organic Rankine Cycles (ORC), Energy, Volume 41, Issue 1, May 2012, Pages 10-17, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.049.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005895)
+Keywords: Thermally driven heat pump; ORC; Supercritical evaporator; Gas bearings; Residential heating; Oil-free
+
+Dimityr Popov, Ana Borissova, Innovative configuration of a hybrid nuclear-solar tower power plant, Energy, Available online 27 February 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.147.
+(http://www.sciencedirect.com/science/article/pii/S0360544217303304)
+
+Min-Hsiung Yang, Rong-Hua Yeh, Thermo-economic optimization of an organic Rankine cycle system for large marine diesel engine waste heat recovery, Energy, Volume 82, 15 March 2015, Pages 256-268, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.036.
+(http://www.sciencedirect.com/science/article/pii/S0360544215000602)
+Keywords: ORC; Waste heat recovery; Thermo-economic; Optimal; Marine diesel engine; Net power output index
+
+Guanghui Xia, Qingxuan Sun, Xu Cao, Jiangfeng Wang, Yizhao Yu, Laisheng Wang, Thermodynamic analysis and optimization of a solar-powered transcritical CO2 (carbon dioxide) power cycle for reverse osmosis desalination based on the recovery of cryogenic energy of LNG (liquefied natural gas), Energy, Volume 66, 1 March 2014, Pages 643-653, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.12.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544213010864)
+Keywords: Solar energy; Transcritical CO2; Reverse osmosis; Liquefied natural gas
+
+Costante M. Invernizzi, Paolo Iora, The exploitation of the physical exergy of liquid natural gas by closed power thermodynamic cycles. An overview, Energy, Volume 105, 15 June 2016, Pages 2-15, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.020.
+(http://www.sciencedirect.com/science/article/pii/S036054421501213X)
+Keywords: Liquefied natural gas; Re-gasification; ORC (Organic Rankine Cycle); Closed Brayton cycles; Real gas Brayton cycles; Carbon dioxide power cycles
+
+A.F. Charwat, S.L. Ridgway, The mist-lift OTEC cycle, Energy, Volume 5, Issue 6, June 1980, Pages 511-524, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90075-4.
+(http://www.sciencedirect.com/science/article/pii/0360544280900754)
+
+D. Pavković, M. Hoić, J. Deur, J. Petrić, Energy storage systems sizing study for a high-altitude wind energy application, Energy, Volume 76, 1 November 2014, Pages 91-103, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544214004125)
+Keywords: Energy storage systems sizing; Flywheels; Hydropneumatic accumulators; Batteries; Ultracapacitors; High-altitude wind energy
+
+Tuong-Van Nguyen, Mari Voldsund, Peter Breuhaus, Brian Elmegaard, Energy efficiency measures for offshore oil and gas platforms, Energy, Volume 117, Part 2, 15 December 2016, Pages 325-340, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.061.
+(http://www.sciencedirect.com/science/article/pii/S036054421630305X)
+Keywords: Energy efficiency; Process integration; Oil and gas platforms
+
+J.C.C. Henriques, J.C.C. Portillo, L.M.C. Gato, R.P.F. Gomes, D.N. Ferreira, A.F.O. Falcão, Design of oscillating-water-column wave energy converters with an application to self-powered sensor buoys, Energy, Volume 112, 1 October 2016, Pages 852-867, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.054.
+(http://www.sciencedirect.com/science/article/pii/S0360544216308283)
+Keywords: Wave energy converter; Oscillating water column; Oceanographic monitoring; Long term deployment
+
+L. Barelli, L. Liucci, A. Ottaviano, D. Valigi, Mini-hydro: A design approach in case of torrential rivers, Energy, Volume 58, 1 September 2013, Pages 695-706, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.06.038.
+(http://www.sciencedirect.com/science/article/pii/S0360544213005367)
+Keywords: Mini-hydro sizing; FDC; Hydrodynamic screw; Hydrological regime
+
+Sufia Khalili, Ali Jafarian Dehkordi, Mohammad Hossein Giahi, Investigating the effect of channel angle of a subsonic MHD (Magneto-Hydro-Dynamic) generator on optimum efficiency of a triple combined cycle, Energy, Volume 85, 1 June 2015, Pages 543-555, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.064.
+(http://www.sciencedirect.com/science/article/pii/S0360544215003734)
+Keywords: MHD (Magneto-Hydro-Dynamic); Faraday MHD generator; MHD based combined cycle; Efficiency; CFD (computational fluid dynamics) of channels
+
+Hussam Zebian, Alexander Mitsos, Pressurized OCC (oxy-coal combustion) process ideally flexible to the thermal load, Energy, Volume 73, 14 August 2014, Pages 416-429, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.06.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544214007294)
+Keywords: Variable load optimization; Pressurized oxy-coal; Load flexibility; Flue gas recovery
+
+Bin Lu, Andrew Blakers, Matthew Stocks, 90–100% renewable electricity for the South West Interconnected System of Western Australia, Energy, Volume 122, 1 March 2017, Pages 663-674, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.077.
+(http://www.sciencedirect.com/science/article/pii/S0360544217300774)
+Keywords: Energy system analysis; Renewable energy systems; Pumped hydro
+
+Konstantinos Braimakis, Sotirios Karellas, Integrated thermoeconomic optimization of standard and regenerative ORC for different heat source types and capacities, Energy, Volume 121, 15 February 2017, Pages 570-598, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.042.
+(http://www.sciencedirect.com/science/article/pii/S0360544217300439)
+Keywords: ORC; Thermoeconomic; Optimization; Regenerative
+
+Young Jae Choi, Dong Hoon Kam, Yoon Won Park, Yong Hoon Jeong, Development of analytical model for solar chimney power plant with and without water storage system, Energy, Volume 112, 1 October 2016, Pages 200-207, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544216307964)
+Keywords: Solar chimney; Large-scale analysis; Water storage system
+
+S. Astariz, C. Perez-Collazo, J. Abanades, G. Iglesias, Towards the optimal design of a co-located wind-wave farm, Energy, Volume 84, 1 May 2015, Pages 15-24, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.114.
+(http://www.sciencedirect.com/science/article/pii/S0360544215002509)
+Keywords: Wave energy; Wind energy; Co-located wind–wave farm; Shadow effect; Wave height
+
+S. Astariz, G. Iglesias, Co-located wind and wave energy farms: Uniformly distributed arrays, Energy, Volume 113, 15 October 2016, Pages 497-508, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.07.069.
+(http://www.sciencedirect.com/science/article/pii/S036054421630994X)
+Keywords: Wave energy; Wind energy; Co-located wind-wave farm; Shadow effect; Weather windows for O&amp;M; Levelised cost
+
+Sunil Chamoli, Preference selection index approach for optimization of V down perforated baffled roughened rectangular channel, Energy, Volume 93, Part 2, 15 December 2015, Pages 1418-1425, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.125.
+(http://www.sciencedirect.com/science/article/pii/S0360544215013481)
+Keywords: Nusselt number; Friction factor; Preference selection index; Ranking
+
+Rajinesh Singh, Sarah A. Miller, Andrew S. Rowlands, Peter A. Jacobs, Dynamic characteristics of a direct-heated supercritical carbon-dioxide Brayton cycle in a solar thermal power plant, Energy, Volume 50, 1 February 2013, Pages 194-204, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.11.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544212008900)
+Keywords: Solar thermal power plant; Supercritical carbon-dioxide; Dynamic modelling; Control; Closed Brayton cycle; Transient performance
+
+Pan Zhao, Yiping Dai, Jiangfeng Wang, Design and thermodynamic analysis of a hybrid energy storage system based on A-CAES (adiabatic compressed air energy storage) and FESS (flywheel energy storage system) for wind power application, Energy, Volume 70, 1 June 2014, Pages 674-684, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.055.
+(http://www.sciencedirect.com/science/article/pii/S036054421400468X)
+Keywords: Hybrid energy storage system; Adiabatic compressed air energy storage system; Flywheel energy storage system; Wind energy; Off-design analysis; Parametric analysis
+
+Yuan Chang, Runze Huang, Robert J. Ries, Eric Masanet, Life-cycle comparison of greenhouse gas emissions and water consumption for coal and shale gas fired power generation in China, Energy, Volume 86, 15 June 2015, Pages 335-343, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.034.
+(http://www.sciencedirect.com/science/article/pii/S0360544215004880)
+Keywords: Coal; Shale gas; Electric power generation; Life cycle assessment
+
+Xue-feng Liu, Jin-ping Liu, Ji-dong Lu, Lei Liu, Wei Zou, Research on operating characteristics of direct-return chilled water system controlled by variable temperature difference, Energy, Volume 40, Issue 1, April 2012, Pages 236-249, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.01.076.
+(http://www.sciencedirect.com/science/article/pii/S0360544212000916)
+Keywords: Chilled water system; Temperature difference control; Direct-return; Central air-conditioning
+
+I.G Bryden, D.M Macfarlane, The utilisation of short term energy storage with tidal current generation systems, Energy, Volume 25, Issue 9, September 2000, Pages 893-907, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(00)00020-7.
+(http://www.sciencedirect.com/science/article/pii/S0360544200000207)
+
+D. Haralambopoulos, I. Pantelakis, P. Paraskevas, Th. Lekkas, Waste-water treatment and renewable energy potential in the Aegean islands, Energy, Volume 22, Issue 7, July 1997, Pages 725-733, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(97)00002-9.
+(http://www.sciencedirect.com/science/article/pii/S0360544297000029)
+
+K.R. Uren, G. van Schoor, State space model extraction of thermohydraulic systems – Part I: A linear graph approach, Energy, Volume 61, 1 November 2013, Pages 368-380, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.06.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544213005410)
+Keywords: State space model; Reduced-order; Linear graphs; Thermohydraulic systems
+
+Y.M. Kim, D.G. Shin, D. Favrat, Operating characteristics of constant-pressure compressed air energy storage (CAES) system combined with pumped hydro storage based on energy and exergy analysis, Energy, Volume 36, Issue 10, October 2011, Pages 6220-6233, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.07.040.
+(http://www.sciencedirect.com/science/article/pii/S0360544211004889)
+Keywords: Compressed air energy storage (CAES); Constant-pressure CAES; Pumped hydro storage; Exergy
+
+P.U. Sunil, Jayesh Barve, P.S.V. Nataraj, Mathematical modeling, simulation and validation of a boiler drum: Some investigations, Energy, Available online 27 February 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.140.
+(http://www.sciencedirect.com/science/article/pii/S0360544217303237)
+Keywords: Boilers; Dynamic simulation; Mathematical models; Nonlinear systems; Steam generators
+
+XiaoLin Chang, Xinghong Liu, Wei Zhou, Hydropower in China at present and its further development, Energy, Volume 35, Issue 11, November 2010, Pages 4400-4406, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.06.051.
+(http://www.sciencedirect.com/science/article/pii/S036054420900276X)
+Keywords: China's hydropower development; Energy shortage; Environmental pollution; Sustainable development
+
+V. Sarhosis, A.A. Jaya, H.R. Thomas, Economic modelling for coal bed methane production and electricity generation from deep virgin coal seams, Energy, Volume 107, 15 July 2016, Pages 580-594, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304625)
+Keywords: Economic model; CBM (Coal bed methane); Electricity generation; COE (Cost of electricity); South Wales Coalfield
+
+A. Vazquez, G. Iglesias, LCOE (levelised cost of energy) mapping: A new geospatial tool for tidal stream energy, Energy, Volume 91, November 2015, Pages 192-201, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.012.
+(http://www.sciencedirect.com/science/article/pii/S0360544215010828)
+Keywords: Tidal stream energy; Levelised cost of energy; Economic map; Geospatial variability; Bristol Channel
+
+A. Therdyothin, S.C. Bhattacharya, M. Tabucanon, Evaluation of alternatives to increase the electrical generation capacity of Thai sugar mills, Energy, Volume 17, Issue 3, March 1992, Pages 247-254, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(92)90052-2.
+(http://www.sciencedirect.com/science/article/pii/0360544292900522)
+
+Leonardo Pierobon, Emiliano Casati, Francesco Casella, Fredrik Haglind, Piero Colonna, Design methodology for flexible energy conversion systems accounting for dynamic performance, Energy, Volume 68, 15 April 2014, Pages 667-679, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.010.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002631)
+Keywords: Power plant dynamics; ORC; Flexible power systems; Multi-objective optimization
+
+Patricia Aranguren, David Astrain, Miren Gurutze Pérez, Computational and experimental study of a complete heat dissipation system using water as heat carrier placed on a thermoelectric generator, Energy, Volume 74, 1 September 2014, Pages 346-358, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.06.094.
+(http://www.sciencedirect.com/science/article/pii/S0360544214007932)
+Keywords: TEG; Heat exchanger; Optimization; Multi-channels
+
+Rajinesh Singh, Andrew S. Rowlands, Sarah A. Miller, Effects of relative volume-ratios on dynamic performance of a direct-heated supercritical carbon-dioxide closed Brayton cycle in a solar-thermal power plant, Energy, Volume 55, 15 June 2013, Pages 1025-1032, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.03.049.
+(http://www.sciencedirect.com/science/article/pii/S0360544213002442)
+Keywords: Solar thermal; Supercritical carbon dioxide; Dynamic modelling; Closed Brayton cycle; Dynamic response; Volume effects
+
+I. Martínez, M.C. Romano, Flexible sorption enhanced gasification (SEG) of biomass for the production of synthetic natural gas (SNG) and liquid biofuels: Process assessment of stand-alone and power-to-gas plant schemes for SNG production, Energy, Volume 113, 15 October 2016, Pages 615-630, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.07.026.
+(http://www.sciencedirect.com/science/article/pii/S0360544216309501)
+Keywords: Biomass; Gasification; Sorption; Enhanced; SNG; Power-to-gas
+
+Rajinesh Singh, Michael P. Kearney, Chris Manzie, Extremum-seeking control of a supercritical carbon-dioxide closed Brayton cycle in a direct-heated solar thermal power plant, Energy, Volume 60, 1 October 2013, Pages 380-387, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.08.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006762)
+Keywords: Solar thermal; Supercritical carbon dioxide; Closed Brayton cycle; Adaptive control; Extremum-seeking; Power maximisation
+
+Xiaoxue Huang, Jialing Zhu, Chengke Niu, Jun Li, Xia Hu, Xianpeng Jin, Heat extraction and power production forecast of a prospective Enhanced Geothermal System site in Songliao Basin, China, Energy, Volume 75, 1 October 2014, Pages 360-370, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.07.085.
+(http://www.sciencedirect.com/science/article/pii/S0360544214009189)
+Keywords: Enhanced Geothermal System; Reservoir-wellbore coupling; Wellbottom pressure variation; Power production; Heat extraction
+
+Kyung Min Kim, Beom Seok Kim, Dong Hyun Lee, Hokyu Moon, Hyung Hee Cho, Optimal design of transverse ribs in tubes for thermal performance enhancement, Energy, Volume 35, Issue 6, June 2010, Pages 2400-2406, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.02.020.
+(http://www.sciencedirect.com/science/article/pii/S0360544210000745)
+Keywords: Rib turbulator; Heat transfer enhancement; Optimization; Response surface method
+
+Jingrui Zhang, Qinghui Tang, Yalin Chen, Shuang Lin, A hybrid particle swarm optimization with small population size to solve the optimal short-term hydro-thermal unit commitment problem, Energy, Volume 109, 15 August 2016, Pages 765-780, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.057.
+(http://www.sciencedirect.com/science/article/pii/S0360544216306673)
+Keywords: Hydro-thermal; Unit commitment; Particle swarm optimization; Small population
+
+Sara Ghaem Sigarchian, Rita Paleta, Anders Malmquist, André Pina, Feasibility study of using a biogas engine as backup in a decentralized hybrid (PV/wind/battery) power generation system – Case study Kenya, Energy, Volume 90, Part 2, October 2015, Pages 1830-1841, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.07.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544215009020)
+Keywords: Biogas engine; Decentralized energy system; Polygeneration; Techno-economic optimization; HOMER; Rural electrification
+
+J.P. Roy, M.K. Mishra, Ashok Misra, Parametric optimization and performance analysis of a waste heat recovery system using Organic Rankine Cycle, Energy, Volume 35, Issue 12, December 2010, Pages 5049-5062, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.08.013.
+(http://www.sciencedirect.com/science/article/pii/S0360544210004408)
+Keywords: Organic Rankine cycle; Parametric optimization; Waste heat recovery; Performance analysis
+
+E. Bocci, A. Di Carlo, D. Marcelo, Power plant perspectives for sugarcane mills, Energy, Volume 34, Issue 5, May 2009, Pages 689-698, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.02.004.
+(http://www.sciencedirect.com/science/article/pii/S0360544209000292)
+Keywords: Biomass; Sugarcane; Bagasse; Sugar; Power plant; Combined heat and power; Gasification; Gas conditioning; MCFC
+
+Deiglys Borges Monteiro, Paulo Eduardo Batista de Mello, Thermal performance and pressure drop in a ceramic heat exchanger evaluated using CFD simulations, Energy, Volume 45, Issue 1, September 2012, Pages 489-496, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.012.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001077)
+Keywords: EFGT cycle; HTHE; Ceramic heat exchanger; Biomass
+
+C. Butler, R. Grimes, The effect of wind on the optimal design and performance of a modular air-cooled condenser for a concentrated solar power plant, Energy, Volume 68, 15 April 2014, Pages 886-895, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.086.
+(http://www.sciencedirect.com/science/article/pii/S036054421400108X)
+Keywords: Air-cooled condenser; Wind effects; Response surface methodology; Optimisation
+
+Yining Wu, Yang Wang, Xudong Zhen, Shuai Guan, Jiancai Wang, Three-dimensional CFD (computational fluid dynamics) analysis of scavenging process in a two-stroke free-piston engine, Energy, Volume 68, 15 April 2014, Pages 167-173, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.02.107.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002667)
+Keywords: Free-piston; Two-stroke; Computational fluid dynamics; Uniflow scavenging
+
+Wen-Long Cheng, Tong-Tong Li, Yong-Le Nian, Chang-Long Wang, Studies on geothermal power generation using abandoned oil wells, Energy, Volume 59, 15 September 2013, Pages 248-254, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544213005951)
+Keywords: Geothermal power generation; Abandoned oil wells; Formation heat transfer; Isobutane
+
+Emanuele Quaranta, Roberto Revelli, Performance characteristics, power losses and mechanical power estimation for a breastshot water wheel, Energy, Volume 87, 1 July 2015, Pages 315-325, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.079.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005344)
+Keywords: Hydropower; Mechanical power; Micro-hydro; Power losses; water wheels
+
+Carlos Cuviella-Suárez, Antonio Colmenar-Santos, Manuel Castro-Gil, Tri-generation system to couple production to demand in a combined cycle, Energy, Volume 40, Issue 1, April 2012, Pages 271-290, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.01.073.
+(http://www.sciencedirect.com/science/article/pii/S0360544212000886)
+Keywords: Desalination; Fossil fuel; Combined cycle; Renewable energy
+
+W.G. Le Roux, T. Bello-Ochende, J.P. Meyer, Operating conditions of an open and direct solar thermal Brayton cycle with optimised cavity receiver and recuperator, Energy, Volume 36, Issue 10, October 2011, Pages 6027-6036, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.012.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005421)
+Keywords: Solar; Brayton; Optimisation; Geometry; Receiver; Recuperator
+
+P. Zhang, F.Y. Lv, A review of the recent advances in superhydrophobic surfaces and the emerging energy-related applications, Energy, Volume 82, 15 March 2015, Pages 1068-1087, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.061.
+(http://www.sciencedirect.com/science/article/pii/S0360544215000857)
+Keywords: Superhydrophobic surface; SLIPS (slippery liquid-infused porous surface); Ice adhesion strength; Friction reduction; Heat transfer
+
+X.S. Jiang, Z.X. Jing, Y.Z. Li, Q.H. Wu, W.H. Tang, Modelling and operation optimization of an integrated energy based direct district water-heating system, Energy, Volume 64, 1 January 2014, Pages 375-388, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.10.067.
+(http://www.sciencedirect.com/science/article/pii/S0360544213009195)
+Keywords: Direct district water-heating system; Fossil fuel consumption; Integrated energy utilization; Operation optimization; Group search optimizer
+
+Janusz Wojciech Bujak, Production of waste energy and heat in hospital facilities, Energy, Volume 91, November 2015, Pages 350-362, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.053.
+(http://www.sciencedirect.com/science/article/pii/S0360544215011287)
+Keywords: HRSG (heat recovery steam generator); Microturbine; Heat recovery; Thermal treatment of medical waste; Heat exchanger
+
+Eduardo Zarza, Loreto Valenzuela, Javier León, Klaus Hennecke, Markus Eck, H.-Dieter Weyers, Martin Eickhoff, Direct steam generation in parabolic troughs: Final results and conclusions of the DISS project, Energy, Volume 29, Issues 5–6, April–May 2004, Pages 635-644, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(03)00172-5.
+(http://www.sciencedirect.com/science/article/pii/S0360544203001725)
+
+James W. Stoutenborough, Liu Shi, Arnold Vedlitz, Probing public perceptions on energy: Support for a comparative, deep-probing survey design for complex issue domains, Energy, Volume 81, 1 March 2015, Pages 406-415, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.12.053.
+(http://www.sciencedirect.com/science/article/pii/S036054421401425X)
+Keywords: Energy issues; Public opinion; Comparative surveys
+
+Humberto E. Garcia, Amit Mohanty, Wen-Chiao Lin, Robert S. Cherry, Dynamic analysis of hybrid energy systems under flexible operation and variable renewable generation – Part I: Dynamic performance analysis, Energy, Volume 52, 1 April 2013, Pages 1-16, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.01.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000418)
+Keywords: Hybrid energy systems; Energy system dynamic analysis; Flexible operation; Variable renewable generation
+
+Klaus Krüger, Rüdiger Franke, Manfred Rode, Optimization of boiler start-up using a nonlinear boiler model and hard constraints, Energy, Volume 29, Issues 12–15, October–December 2004, Pages 2239-2251, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.03.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544204001008)
+
+Tolga Kaya, Cengiz Kahraman, Multicriteria renewable energy planning using an integrated fuzzy VIKOR &amp; AHP methodology: The case of Istanbul, Energy, Volume 35, Issue 6, June 2010, Pages 2517-2527, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.02.051.
+(http://www.sciencedirect.com/science/article/pii/S0360544210001155)
+Keywords: Renewable energy; Fuzzy; Multi-criteria; VIKOR; AHP; Wind energy
+
+Opubo N. Igobo, Philip A. Davies, Review of low-temperature vapour power cycle engines with quasi-isothermal expansion, Energy, Volume 70, 1 June 2014, Pages 22-34, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.123.
+(http://www.sciencedirect.com/science/article/pii/S0360544214004046)
+Keywords: Vapour power cycle; Quasi-isothermal expansion; Renewable energy; Waste heat utilisation
+
+Z.X. Jing, X.S. Jiang, Q.H. Wu, W.H. Tang, B. Hua, Modelling and optimal operation of a small-scale integrated energy based district heating and cooling system, Energy, Volume 73, 14 August 2014, Pages 399-415, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.06.030.
+(http://www.sciencedirect.com/science/article/pii/S0360544214007282)
+Keywords: District heating and cooling; Integrated energy based; Daily operation optimization; Running cost; Fossil fuel consumption
+
+Douglas T. Gardner, Flexibility in electric power planning: Coping with demand uncertainty, Energy, Volume 21, Issue 12, December 1996, Pages 1207-1218, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(96)00061-8.
+(http://www.sciencedirect.com/science/article/pii/0360544296000618)
+
+E. Taşdemiroğlu, Hydroelectric power potential and its use in Turkey, Energy, Volume 13, Issue 7, July 1988, Pages 549-556, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(88)90010-2.
+(http://www.sciencedirect.com/science/article/pii/0360544288900102)
+
+M. Robbe, E. Sciubba, Derivation of the optimal internal cooling geometry of a prismatic slab: Comparison of constructal and non-constructal geometries, Energy, Volume 34, Issue 12, December 2009, Pages 2167-2174, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2008.08.028.
+(http://www.sciencedirect.com/science/article/pii/S036054420800248X)
+Keywords: Slab cooling; Constructal design; Multilevel tube arrangement
+
+Francisco Jurado, José R. Saenz, Possibilities for biomass-based power plant and wind system integration, Energy, Volume 27, Issue 10, October 2002, Pages 955-966, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(02)00032-4.
+(http://www.sciencedirect.com/science/article/pii/S0360544202000324)
+
+D Manolakos, G Papadakis, D Papantonis, S Kyritsis, A simulation-optimisation programme for designing hybrid energy systems for supplying electricity and fresh water through desalination to remote areas: Case study: the Merssini village, Donoussa island, Aegean Sea, Greece, Energy, Volume 26, Issue 7, July 2001, Pages 679-704, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(01)00026-3.
+(http://www.sciencedirect.com/science/article/pii/S0360544201000263)
+
+Ahmad Ghamarian, Energy conservation in power plants: Analysis of pressure-equalizing pump performance, Energy, Volume 6, Issue 6, June 1981, Pages 555-559, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90059-1.
+(http://www.sciencedirect.com/science/article/pii/0360544281900591)
+
+Mateus Ricardo Nogueira Vilanova, José Antônio Perrella Balestieri, Exploring the water-energy nexus in Brazil: The electricity use for water supply, Energy, Volume 85, 1 June 2015, Pages 415-432, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.083.
+(http://www.sciencedirect.com/science/article/pii/S0360544215003928)
+Keywords: Water supply utilities; Water-energy nexus; Electricity consumption
+
+Thomas Fend, Bernhard Hoffschmidt, Robert Pitz-Paal, Oliver Reutter, Peter Rietbrock, Porous materials as open volumetric solar receivers: Experimental determination of thermophysical and heat transfer properties, Energy, Volume 29, Issues 5–6, April–May 2004, Pages 823-833, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(03)00188-9.
+(http://www.sciencedirect.com/science/article/pii/S0360544203001889)
+
+Xiaojing Sun, Diangui Huang, Guoqing Wu, The current state of offshore wind energy technology development, Energy, Volume 41, Issue 1, May 2012, Pages 298-312, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.054.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001685)
+Keywords: Overview; Offshore wind energy; Current status of development; Recent technological progress
+
+Bahtiyar Dursun, Bora Alboyaci, Cihan Gokcol, Optimal wind-hydro solution for the Marmara region of Turkey to meet electricity demand, Energy, Volume 36, Issue 2, February 2011, Pages 864-872, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.12.028.
+(http://www.sciencedirect.com/science/article/pii/S0360544210007188)
+Keywords: Pumped hydro storage; Wind potential; Energy planning
+
+Muhammad Usman, Muhammad Imran, Youngmin Yang, Dong Hyun Lee, Byung-Sik Park, Thermo-economic comparison of air-cooled and cooling tower based Organic Rankine Cycle (ORC) with R245fa and R1233zde as candidate working fluids for different geographical climate conditions, Energy, Volume 123, 15 March 2017, Pages 353-366, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.134.
+(http://www.sciencedirect.com/science/article/pii/S036054421730141X)
+Keywords: Organic Rankine Cycle (ORC); Part-load operation; R1233zde; Air cooled condenser; Cooling tower
+
+Vladimir D. Stevanovic, Tadeusz Wala, Slawomir Muszynski, Milos Milic, Milorad Jovanovic, Efficiency and power upgrade by an additional high pressure economizer installation at an aged 620 MWe lignite-fired power plant, Energy, Volume 66, 1 March 2014, Pages 907-918, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544214000073)
+Keywords: Waste heat; Flue gas; Economizer; Boiler
+
+Hamid Mokhtari, Hasti Hadiannasab, Mostafa Mostafavi, Ali Ahmadibeni, Behrooz Shahriari, Determination of optimum geothermal Rankine cycle parameters utilizing coaxial heat exchanger, Energy, Volume 102, 1 May 2016, Pages 260-275, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.067.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301268)
+Keywords: Organic Rankine cycle; Geothermal; Exergo-economic; Coaxial heat exchanger
+
+J.M. Davila-Vilchis, R.S. Mishra, Performance of a hydrokinetic energy system using an axial-flux permanent magnet generator, Energy, Volume 65, 1 February 2014, Pages 631-638, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.11.040.
+(http://www.sciencedirect.com/science/article/pii/S0360544213010025)
+Keywords: Hydrokinetic energy; Variable pitch; Electricity generation; Low-cost blades; Axial-flux generator
+
+E. Jansen, T. Bello-Ochende, J.P. Meyer, Integrated solar thermal Brayton cycles with either one or two regenerative heat exchangers for maximum power output, Energy, Volume 86, 15 June 2015, Pages 737-748, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.080.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005472)
+Keywords: Brayton cycle; Entropy; Exergy; Minimisation; Optimisation; Solar
+
+Ratan Raj, Samane Ghandehariun, Amit Kumar, Ma Linwei, A well-to-wire life cycle assessment of Canadian shale gas for electricity generation in China, Energy, Volume 111, 15 September 2016, Pages 642-652, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.079.
+(http://www.sciencedirect.com/science/article/pii/S0360544216306971)
+Keywords: Shale gas; Life cycle assessment; Electric power generation; Liquefaction; Natural gas
+
+Pouria Ahmadi, Ibrahim Dincer, Marc A. Rosen, Thermoeconomic multi-objective optimization of a novel biomass-based integrated energy system, Energy, Volume 68, 15 April 2014, Pages 958-970, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.085.
+(http://www.sciencedirect.com/science/article/pii/S0360544214001078)
+Keywords: Energy; Exergy; Efficiency; Biomass; Integrated system; Optimization
+
+Humberto E. Garcia, Jun Chen, Jong S. Kim, Richard B. Vilim, William R. Binder, Shannon M. Bragg Sitton, Richard D. Boardman, Michael G. McKellar, Christiaan J.J. Paredis, Dynamic performance analysis of two regional Nuclear Hybrid Energy Systems, Energy, Volume 107, 15 July 2016, Pages 234-258, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.128.
+(http://www.sciencedirect.com/science/article/pii/S0360544216303759)
+Keywords: Hybrid energy systems; Flexible operation; Variable renewable generation; Ancillary service
+
+D.S. Coles, L.S. Blunden, A.S. Bahaj, Assessment of the energy extraction potential at tidal sites around the Channel Islands, Energy, Volume 124, 1 April 2017, Pages 171-186, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301974)
+Keywords: Tidal power; Marine currents; Alderney Race; Casquets; Big Roussel; Channel Islands
+
+Giampaolo Manfrida, Riccardo Secchi, Seawater pumping as an electricity storage solution for photovoltaic energy systems, Energy, Volume 69, 1 May 2014, Pages 470-484, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.040.
+(http://www.sciencedirect.com/science/article/pii/S0360544214003041)
+Keywords: Storage; Seawater; Photovoltaics; TRNSYS
+
+Kenneth Richard Uren, George van Schoor, State space model extraction of thermohydraulic systems – Part II: A linear graph approach applied to a Brayton cycle-based power conversion unit, Energy, Volume 61, 1 November 2013, Pages 381-396, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.08.052.
+(http://www.sciencedirect.com/science/article/pii/S036054421300741X)
+Keywords: State space model; Linear graph; Model extraction; Power conversion unit; Brayton cycle
+
+Mostafa H. Sharqawy, Syed M. Zubair, John H. Lienhard V, Rebuttal to “Discussion of ‘Second law analysis of reverse osmosis desalination plants: An alternative design using pressure retarded osmosis’ [Energy 2011] 36: 6617–6626]”, Energy, Volume 46, Issue 1, October 2012, Pages 691-693, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.08.035.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006664)
+Keywords: Exergy analysis; Seawater; Reverse osmosis; Pressure retarded osmosis; Desalination; Energy recovery device
+
+Zhiyuan Wang, Zhongdong Qian, Effects of concentration and size of silt particles on the performance of a double-suction centrifugal pump, Energy, Volume 123, 15 March 2017, Pages 36-46, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.142.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301561)
+Keywords: Double-suction centrifugal pump; Silt concentration; Silt size; Performance
+
+Dimitris Al. Katsaprakakis, Dimitris G. Christakis, Seawater pumped storage systems and offshore wind parks in islands with low onshore wind potential. A fundamental case study, Energy, Volume 66, 1 March 2014, Pages 470-486, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.021.
+(http://www.sciencedirect.com/science/article/pii/S0360544214000280)
+Keywords: Hydro power plants; Wind powered seawater pumped storage; Isolated insular systems; Offshore wind parks; Renewable energy sources; Wind energy penetration
+
+Zhong Ge, Hua Wang, Hui-Tao Wang, Jian-Jun Wang, Ming Li, Fu-Zhong Wu, Song-Yuan Zhang, Main parameters optimization of regenerative organic Rankine cycle driven by low-temperature flue gas waste heat, Energy, Volume 93, Part 2, 15 December 2015, Pages 1886-1895, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.051.
+(http://www.sciencedirect.com/science/article/pii/S036054421501419X)
+Keywords: Waste heat; Regenerative organic Rankine cycle; Optimal evaporation temperature; Optimal regenerator effectiveness; Optimal pinch point temperature difference
+
+M.J. Lewis, A. Angeloudis, P.E. Robins, P.S. Evans, S.P. Neill, Influence of storm surge on tidal range energy, Energy, Volume 122, 1 March 2017, Pages 25-36, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.068.
+(http://www.sciencedirect.com/science/article/pii/S0360544217300683)
+Keywords: Tidal energy; Barrages; Lagoons; Storm surge; Resource; Reliability
+
+Osman İpek, Bayram Kılıç, Barış Gürel, Experimental investigation of exergy loss analysis in newly designed compact heat exchangers, Energy, Volume 124, 1 April 2017, Pages 330-335, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.061.
+(http://www.sciencedirect.com/science/article/pii/S0360544217302359)
+Keywords: Exergy loss; Compact heat exchangers; Brazed plate heat exchanger; Experimentally
+
+Fateme Ahmadi Boyaghchi, Mansoure Chavoshi, Vajiheh Sabeti, Optimization of a novel combined cooling, heating and power cycle driven by geothermal and solar energies using the water/CuO (copper oxide) nanofluid, Energy, Volume 91, November 2015, Pages 685-699, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.082.
+(http://www.sciencedirect.com/science/article/pii/S0360544215011585)
+Keywords: Exergy; Exergoeconomic; Collector; Nanoparticle; NSGA-II
+
+John S. Anagnostopoulos, Dimitris E. Papantonis, Study of pumped storage schemes to support high RES penetration in the electric power system of Greece, Energy, Volume 45, Issue 1, September 2012, Pages 416-423, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001260)
+Keywords: Pumped storage; Wind energy rejection; High RES penetration; Hydroelectric power plant; Optimum sizing
+
+S. Padrón, J.F. Medina, A. Rodríguez, Analysis of a pumped storage system to increase the penetration level of renewable energy in isolated power systems. Gran Canaria: A case study, Energy, Volume 36, Issue 12, December 2011, Pages 6753-6762, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.10.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544211006888)
+Keywords: Wind energy; Pumped storage system; Steady-state analysis; Dynamic analysis; Isolated power systems; PHES
+
+José Ignacio Linares, Alexis Cantizano, Beatriz Yolanda Moratilla, Víctor Martín-Palacios, Lluis Batet, Supercritical CO2 Brayton power cycles for DEMO (demonstration power plant) fusion reactor based on dual coolant lithium lead blanket, Energy, Volume 98, 1 March 2016, Pages 271-283, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.01.020.
+(http://www.sciencedirect.com/science/article/pii/S036054421600030X)
+Keywords: Balance of plant; Fusion power; Supercritical CO2 Brayton cycle; DCLL lead (dual coolant lithium-lead); DEMO (demonstration power plant)
+
+Cesare Tona, Paolo Antonio Raviolo, Luiz Felipe Pellegrini, Silvio de Oliveira Júnior, Exergy and thermoeconomic analysis of a turbofan engine during a typical commercial flight, Energy, Volume 35, Issue 2, February 2010, Pages 952-959, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.06.052.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002758)
+Keywords: Exergy analysis; Thermoeconomic analysis; Aircraft; Turbofan; Commercial flight
+
+Matteo Morandin, François Maréchal, Mehmet Mercangöz, Florian Buchter, Conceptual design of a thermo-electrical energy storage system based on heat integration of thermodynamic cycles – Part B: Alternative system configurations, Energy, Volume 45, Issue 1, September 2012, Pages 386-396, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.03.033.
+(http://www.sciencedirect.com/science/article/pii/S0360544212002241)
+Keywords: Energy storage; Pinch analysis; Synthesis; Thermo-electrical energy storage (TEES); Transcritical CO2
+
+Chaoyang Wang, Ming Liu, Bingxin Li, Yiwen Liu, Junjie Yan, Thermodynamic analysis on the transient cycling of coal-fired power plants: Simulation study of a 660 MW supercritical unit, Energy, Volume 122, 1 March 2017, Pages 505-527, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.123.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301305)
+Keywords: Thermal system simulation; Coal-fired plant; Transient process; Load cycling; Energy consumption
+
+Arun Ram Mohan, Uday Turaga, Vishakha Shembekar, Derek Elsworth, Sarma V. Pisupati, Utilization of carbon dioxide from coal-based power plants as a heat transfer fluid for electricity generation in enhanced geothermal systems (EGS), Energy, Volume 57, 1 August 2013, Pages 505-512, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.05.047.
+(http://www.sciencedirect.com/science/article/pii/S0360544213004659)
+Keywords: Carbon dioxide sequestration; IGCC; Enhanced geothermal systems; Electricity; Organic Rankine cycle
+
+Wen-Long Cheng, Jian Liu, Yong-Le Nian, Chang-Long Wang, Enhancing geothermal power generation from abandoned oil wells with thermal reservoirs, Energy, Volume 109, 15 August 2016, Pages 537-545, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.009.
+(http://www.sciencedirect.com/science/article/pii/S0360544216305618)
+Keywords: Geothermal power generation; Abandoned oil wells; Thermal reservoirs; Heat transfer model; Organic Rankine cycle
+
+Ambarish Panda, M. Tripathy, A.K. Barisal, T. Prakash, A Modified Bacteria Foraging based Optimal Power Flow Framework for Hydro-Thermal-Wind generation system in the presence of STATCOM, Energy, Available online 20 February 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.090.
+(http://www.sciencedirect.com/science/article/pii/S0360544217302712)
+Keywords: optimal power flow; Modified bacteria foraging algorithm; Hydro-Thermal-Wind system; Cost-effective operation
+
+Chad Knutson, Discussion of “Second law analysis of reverse osmosis desalination plants: An alternative design using pressure retarded osmosis” [Energy (2011) 36: 6617–6626], Energy, Volume 46, Issue 1, October 2012, Pages 688-690, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.07.057.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006068)
+Keywords: Exergy analysis; Reverse osmosis; Pressure retarded osmosis; Desalination; Energy recovery device
+
+Mélanie Guittet, Massimiliano Capezzali, Ludovic Gaudard, Franco Romerio, François Vuille, François Avellan, Study of the drivers and asset management of pumped-storage power plants historical and geographical perspective, Energy, Volume 111, 15 September 2016, Pages 560-579, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.052.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304583)
+Keywords: Pumped-storage; Hydro power plants; Large-scale electricity storage capacity; Geographical distribution; Historical perspective
+
+Paulo Eduardo Batista de Mello, Helio Henrique Santomo Villanueva, Sérgio Scuotto, Gustavo Henrique Bolognesi Donato, Fernando dos Santos Ortega, Heat transfer, pressure drop and structural analysis of a finned plate ceramic heat exchanger, Energy, Volume 120, 1 February 2017, Pages 597-607, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.11.113.
+(http://www.sciencedirect.com/science/article/pii/S0360544216317686)
+Keywords: Ceramic heat exchanger; High temperature heat exchanger; Ceramics; Structural integrity
+
+Felipe G. Battisti, José M. Cardemil, Alexandre K. da Silva, A multivariable optimization of a Brayton power cycle operating with CO2 as working fluid, Energy, Volume 112, 1 October 2016, Pages 908-916, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.118.
+(http://www.sciencedirect.com/science/article/pii/S0360544216308921)
+Keywords: Brayton cycle; Carbon dioxide; Multivariable optimization; Exergetic efficiency; Normalized efficiency
+
+Houari Ameur, Energy efficiency of different impellers in stirred tank reactors, Energy, Volume 93, Part 2, 15 December 2015, Pages 1980-1988, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.084.
+(http://www.sciencedirect.com/science/article/pii/S0360544215014528)
+Keywords: Energy efficiency; Maxblend impeller; Yield stress fluid; CFD simulations; Stirred tank
+
+Mehdi Mehrpooya, Mohsen Shahsavan, Mohammad Mehdi Moftakhari Sharifzadeh, Modeling, energy and exergy analysis of solar chimney power plant-Tehran climate data case study, Energy, Volume 115, Part 1, 15 November 2016, Pages 257-273, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.09.006.
+(http://www.sciencedirect.com/science/article/pii/S0360544216312464)
+Keywords: Renewable energy; Solar chimney power plant; CFD; Energy; Exergy
+
+Habib Cherif, Jamel Belhadj, Large-scale time evaluation for energy estimation of stand-alone hybrid photovoltaic–wind system feeding a reverse osmosis desalination unit, Energy, Volume 36, Issue 10, October 2011, Pages 6058-6067, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.010.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005408)
+Keywords: Renewable energy; Photovoltaic–wind energy; Energy estimation; Desalination; Reverse osmosis
+
+Davide Bonalumi, Antonio Giuffrida, Investigations of an air-blown integrated gasification combined cycle fired with high-sulphur coal with post-combustion carbon capture by aqueous ammonia, Energy, Volume 117, Part 2, 15 December 2016, Pages 439-449, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.025.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304315)
+Keywords: Air-blown; Chilled ammonia; Cooled ammonia; High-sulphur coal; Advanced IGCC; SPECCA
+
+E. Galloni, G. Fontana, S. Staccone, Design and experimental analysis of a mini ORC (organic Rankine cycle) power plant based on R245fa working fluid, Energy, Volume 90, Part 1, October 2015, Pages 768-775, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.07.104.
+(http://www.sciencedirect.com/science/article/pii/S0360544215009998)
+Keywords: Organic Rankine cycle; Scroll expander; ORC test rig; Heat recovery
+
+Muhammad Imran, Muhammad Usman, Byung-Sik Park, Youngmin Yang, Comparative assessment of Organic Rankine Cycle integration for low temperature geothermal heat source applications, Energy, Volume 102, 1 May 2016, Pages 473-490, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.119.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301815)
+Keywords: Recuperated Organic Rankine Cycle; Regenerative Organic Rankine Cycle; Thermo-economic optimization
+
+Xueqian Fu, Hongbin Sun, Qinglai Guo, Zhaoguang Pan, Wen Xiong, Li Wang, Uncertainty analysis of an integrated energy system based on information theory, Energy, Volume 122, 1 March 2017, Pages 649-662, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.111.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301160)
+Keywords: Photovoltaic; Combined heat and power; Electric air conditioner; Integrated energy systems
+
+Baltasar Peñate, Fernando Castellano, Alejandro Bello, Lourdes García-Rodríguez, Assessment of a stand-alone gradual capacity reverse osmosis desalination plant to adapt to wind power availability: A case study, Energy, Volume 36, Issue 7, July 2011, Pages 4372-4384, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.04.005.
+(http://www.sciencedirect.com/science/article/pii/S0360544211002544)
+Keywords: Wind energy; Reverse osmosis desalination; Medium scale; Gradual capacity
+
+Ali Altaee, Graeme J. Millar, Guillermo Zaragoza, Integration and optimization of pressure retarded osmosis with reverse osmosis for power generation and high efficiency desalination, Energy, Volume 103, 15 May 2016, Pages 110-118, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.116.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301785)
+Keywords: Salinity gradient power; Pressure retarded osmosis; Reverse osmosis; High recovery desalination; Brine valorisation
+
+Fu Wang, Shuai Deng, Jun Zhao, Junyao Wang, Taiwei Sun, Jinyue Yan, Performance and economic assessments of integrating geothermal energy into coal-fired power plant with CO2 capture, Energy, Volume 119, 15 January 2017, Pages 278-287, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.12.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544216318345)
+Keywords: CO2 capture; Geothermal energy; Geothermal power plant; Renewable energy; Cost
+
+L. Bayón, J.M. Grau, M.M. Ruiz, P.M. Suárez, A comparative economic study of two configurations of hydro-wind power plants, Energy, Volume 112, 1 October 2016, Pages 8-16, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.133.
+(http://www.sciencedirect.com/science/article/pii/S036054421630771X)
+Keywords: Hydro-wind power plant; Optimal control
+
+Maurizio Spinelli, Petteri Peltola, Aldo Bischi, Jouni Ritvanen, Timo Hyppänen, Matteo C. Romano, Process integration of chemical looping combustion with oxygen uncoupling in a coal-fired power plant, Energy, Volume 103, 15 May 2016, Pages 646-659, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.167.
+(http://www.sciencedirect.com/science/article/pii/S0360544216302456)
+Keywords: Chemical looping combustion; CLOU; CO2 capture; Fluidized bed; Clean coal
+
+Tor-Martin Tveit, Juha Aaltola, Timo Laukkanen, Mika Laihanen, Carl-Johan Fogelholm, A framework for local and regional energy system integration between industry and municipalities—Case study UPM-Kymmene Kaukas, Energy, Volume 31, Issue 12, September 2006, Pages 2162-2175, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2005.09.009.
+(http://www.sciencedirect.com/science/article/pii/S0360544205001830)
+Keywords: Regional energy system; Integration; Optimisation
+
+P.A. González-Gómez, F. Petrakopoulou, J.V. Briongos, D. Santana, Cost-based design optimization of the heat exchangers in a parabolic trough power plant, Energy, Volume 123, 15 March 2017, Pages 314-325, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.02.002.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301767)
+Keywords: Solar thermal power plant; Parabolic trough; Thermal energy storage; Steam generator; Heat exchanger design; Design optimization
+
+Zhenying Zhang, Minxia Li, Yitai Ma, Xiufeng Gong, Experimental investigation on a turbo expander substituted for throttle valve in the subcritical refrigeration system, Energy, Volume 79, 1 January 2015, Pages 195-202, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.11.007.
+(http://www.sciencedirect.com/science/article/pii/S0360544214012614)
+Keywords: Refrigeration; Turbo expander; Subcritical refrigeration system; Throttle valve; Expansion power recovery
+
+Antonio Rovira, Marta Muñoz, Consuelo Sánchez, José María Martínez-Val, Proposal and study of a balanced hybrid Rankine–Brayton cycle for low-to-moderate temperature solar power plants, Energy, Volume 89, September 2015, Pages 305-317, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.05.128.
+(http://www.sciencedirect.com/science/article/pii/S0360544215007501)
+Keywords: Brayton cycle; Rankine cycle; Moderate temperature heat source; Regenerative cycle; Supercritical fluid
+
+A. Foley, I. Díaz Lobera, Impacts of compressed air energy storage plant on an electricity market with a large renewable energy portfolio, Energy, Volume 57, 1 August 2013, Pages 85-94, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.04.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544213003423)
+Keywords: Energy storage; Electricity markets; Wind power; Compressed air energy storage; Ancillary services; Emissions
+
+Roozbeh Sangi, Paula Martínez Martín, Dirk Müller, Thermoeconomic analysis of a building heating system, Energy, Volume 111, 15 September 2016, Pages 351-363, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.112.
+(http://www.sciencedirect.com/science/article/pii/S0360544216307290)
+Keywords: Boiler; Building energy systems; CHP; Dynamic modelling and simulation; Exergy; Thermoeconomics
+
+António Domingues, Helder Santos, Mário Costa, Analysis of vehicle exhaust waste heat recovery potential using a Rankine cycle, Energy, Volume 49, 1 January 2013, Pages 71-85, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.11.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544212008389)
+Keywords: Waste heat recovery; Rankine cycle; Working fluid; Thermodynamic efficiency; Heat exchanger
+
+J.I. Pérez-Díaz, R. Millán, D. García, I. Guisández, J.R. Wilhelmi, Contribution of re-regulation reservoirs considering pumping capability to environmentally friendly hydropower operation, Energy, Volume 48, Issue 1, December 2012, Pages 144-152, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.06.071.
+(http://www.sciencedirect.com/science/article/pii/S0360544212005233)
+Keywords: Hydropower operation; Environmental constraints; Re-regulation reservoir; Pumped storage; Optimization; Assessment methodology
+
+S. Astariz, G. Iglesias, Output power smoothing and reduced downtime period by combined wind and wave energy farms, Energy, Volume 97, 15 February 2016, Pages 69-81, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.12.108.
+(http://www.sciencedirect.com/science/article/pii/S0360544215017533)
+Keywords: Wave energy; Wind energy; Co-located wind-wave farm; Wave-wind correlation; Power variability; Power smoothing
+
+Sébastien Lefevre, Jean-Henry Ferrasse, Rémy Faucherand, Alain Viand, Olivier Boutin, Energetic optimization of wet air oxidation process using experimental design coupled with process simulation, Energy, Volume 41, Issue 1, May 2012, Pages 175-183, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.09.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544211006530)
+Keywords: Wet air oxidation; Experimental design; Energetic efficiency; Exergy
+
+Ravi Kant Ravi, R.P. Saini, Experimental investigation on performance of a double pass artificial roughened solar air heater duct having roughness elements of the combination of discrete multi V shaped and staggered ribs, Energy, Volume 116, Part 1, 1 December 2016, Pages 507-516, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.09.138.
+(http://www.sciencedirect.com/science/article/pii/S0360544216314190)
+Keywords: Double pass solar air heater; Nusselt number; Friction factor; Artificial roughness; Heat transfer; Relative staggered rib size
+
+Chi-Ron Kuo, Sung-Wei Hsu, Kai-Han Chang, Chi-Chuan Wang, Analysis of a 50 kW organic Rankine cycle system, Energy, Volume 36, Issue 10, October 2011, Pages 5877-5885, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.035.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005755)
+Keywords: Organic Rankine cycle; Thermal efficiency; Thermal resistance
+
+Sang Dong Hwang, Hyun Goo Kwon, Hyung Hee Cho, Local heat transfer and thermal performance on periodically dimple-protrusion patterned walls for compact heat exchangers, Energy, Volume 35, Issue 12, December 2010, Pages 5357-5364, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.07.022.
+(http://www.sciencedirect.com/science/article/pii/S036054421000397X)
+Keywords: Dimple; Protrusion; Transient TLC method; Heat transfer; Compact heat exchanger
+
+Michael Steffen, Michael Löffler, Karlheinz Schaber, Efficiency of a new Triangle Cycle with flash evaporation in a piston engine, Energy, Volume 57, 1 August 2013, Pages 295-307, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.11.054.
+(http://www.sciencedirect.com/science/article/pii/S0360544213004751)
+Keywords: Triangle Cycle; Organic Rankine Cycle; Isentropic efficiency; Exergetic efficiency; Flash evaporation; Cyclone
+
+Jiří Jaromír Klemeš, Hon Loong Lam, Process integration for energy saving and pollution reduction, Energy, Volume 36, Issue 8, August 2011, Pages 4586-4587, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.05.025.
+(http://www.sciencedirect.com/science/article/pii/S0360544211003501)
+
+J. Moore, R. Grimes, E. Walsh, A. O'Donovan, Modelling the thermodynamic performance of a concentrated solar power plant with a novel modular air-cooled condenser, Energy, Volume 69, 1 May 2014, Pages 378-391, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.028.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002904)
+Keywords: Dry cooling; Air-cooled condenser; Air-cooled heat exchanger; CSP (Concentrated Solar Power) system analysis
+
+G.K. Singh, A six-phase synchronous generator for stand-alone renewable energy generation: Experimental analysis, Energy, Volume 36, Issue 3, March 2011, Pages 1768-1775, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.12.052.
+(http://www.sciencedirect.com/science/article/pii/S0360544210007589)
+Keywords: Renewable energy generation; Six-phase synchronous generator; Small hydro power generation scheme
+
+Kefang Zhang, Zhongliang Liu, Yuanya Wang, Yanxia Li, Qingfang Li, Jian Zhang, Haili Liu, Flash evaporation and thermal vapor compression aided energy saving CO2 capture systems in coal-fired power plant, Energy, Volume 66, 1 March 2014, Pages 556-568, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.063.
+(http://www.sciencedirect.com/science/article/pii/S0360544214000851)
+Keywords: CO2 capture system; Heat recovery; Flash evaporation; thermal vapor compression; Specific heat consumption; Specific exergy consumption; Plant electric efficiency penalty
+
+A. Pacheco, Ó. Ferreira, R. Carballo, G. Iglesias, Evaluation of the production of tidal stream energy in an inlet channel by coupling field data and numerical modelling, Energy, Volume 71, 15 July 2014, Pages 104-117, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.075.
+(http://www.sciencedirect.com/science/article/pii/S0360544214004885)
+Keywords: Tidal power; Floatable tidal energy converters; Numerical modelling; Acoustic Doppler Current Profiler; Power output
+
+Cheng Zhang, Chao Liu, Shukun Wang, Xiaoxiao Xu, Qibin Li, Thermo-economic comparison of subcritical organic Rankine cycle based on different heat exchanger configurations, Energy, Available online 30 January 2017, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.132.
+(http://www.sciencedirect.com/science/article/pii/S0360544217301391)
+Keywords: Organic Rankine cycle; Thermo-economic evaluation; Electricity production cost; Plate heat exchanger; Shell-and-tube heat exchanger; Finned-tube heat exchanger
+
+Wei He, Yang Wang, Mohammad Hasan Shaheed, Stand-alone seawater RO (reverse osmosis) desalination powered by PV (photovoltaic) and PRO (pressure retarded osmosis), Energy, Volume 86, 15 June 2015, Pages 423-435, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.046.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005010)
+Keywords: Stand-alone desalination plant; Hybrid salinity-solar power generation; Concentration polarization effect; Reverse salt permeation effect; Optimal operation strategy
+
+Jong Suk Kim, Jun Chen, Humberto E. Garcia, Modeling, control, and dynamic performance analysis of a reverse osmosis desalination plant integrated within hybrid energy systems, Energy, Volume 112, 1 October 2016, Pages 52-66, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.050.
+(http://www.sciencedirect.com/science/article/pii/S0360544216306600)
+Keywords: Desalination; Reverse osmosis; Variable renewable generation; Hybrid energy systems; Flexible load resource; Ancillary service
+
+V. Zare, S.M.S. Mahmoudi, M. Yari, M. Amidpour, Thermoeconomic analysis and optimization of an ammonia–water power/cooling cogeneration cycle, Energy, Volume 47, Issue 1, November 2012, Pages 271-283, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.09.002.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006809)
+Keywords: Ammonia–water mixture; Power/cooling cogeneration; Thermoeconomic; Optimization; Genetic algorithm
+
+Helio Henrique Santomo Villanueva, Paulo Eduardo Batista de Mello, Heat transfer and pressure drop correlations for finned plate ceramic heat exchangers, Energy, Volume 88, August 2015, Pages 118-125, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544215004454)
+Keywords: HTHE; Ceramic heat exchanger; CFD; Biomass
+
+Wai Lip Theo, Jeng Shiun Lim, Sharifah Rafidah Wan Alwi, Nor Erniza Mohammad Rozali, Wai Shin Ho, Zainuddin Abdul-Manan, An MILP model for cost-optimal planning of an on-grid hybrid power system for an eco-industrial park, Energy, Volume 116, Part 2, 1 December 2016, Pages 1423-1441, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544216306533)
+Keywords: On-grid hybrid power system; Energy planning; Renewable resources; Mathematical modeling; Optimisation; Eco-industrial park
+
+George Kosmadakis, Arnaud Landelle, Marija Lazova, Dimitris Manolakos, Alihan Kaya, Henk Huisseune, Christos-Spyridon Karavas, Nicolas Tauveron, Remi Revellin, Philippe Haberschill, Michel De Paepe, George Papadakis, Experimental testing of a low-temperature organic Rankine cycle (ORC) engine coupled with concentrating PV/thermal collectors: Laboratory and field tests, Energy, Volume 117, Part 1, 15 December 2016, Pages 222-236, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.10.047.
+(http://www.sciencedirect.com/science/article/pii/S0360544216314815)
+Keywords: Organic Rankine cycle; Concentrating PV/thermal; Low-temperature; Scroll expander; Evaporator; Diaphragm pump
+
+Jean-Louis Bouvier, Ghislain Michaux, Patrick Salagnac, François Nepveu, Dominique Rochier, Thiebaut Kientz, Experimental characterisation of a solar parabolic trough collector used in a micro-CHP (micro-cogeneration) system with direct steam generation, Energy, Volume 83, 1 April 2015, Pages 474-485, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.02.050.
+(http://www.sciencedirect.com/science/article/pii/S0360544215002054)
+Keywords: Solar thermal energy; Small-scale system; Parabolic trough collector; Direct steam generation; Experimentation
+
+C.D. Rakopoulos, E.G. Giakoumis, Availability analysis of a turbocharged diesel engine operating under transient load conditions, Energy, Volume 29, Issue 8, June 2004, Pages 1085-1104, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.02.028.
+(http://www.sciencedirect.com/science/article/pii/S0360544204000726)
+
+E.M.G. Rodrigues, R. Godina, S.F. Santos, A.W. Bizuayehu, J. Contreras, J.P.S. Catalão, Energy storage systems supporting increased penetration of renewables in islanded systems, Energy, Volume 75, 1 October 2014, Pages 265-280, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.07.072.
+(http://www.sciencedirect.com/science/article/pii/S0360544214008949)
+Keywords: Storage technologies; Renewables penetration; Islanded systems
+
+G.K. Singh, Modeling and analysis of six-phase synchronous generator for stand-alone renewable energy generation, Energy, Volume 36, Issue 9, September 2011, Pages 5621-5631, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.07.005.
+(http://www.sciencedirect.com/science/article/pii/S0360544211004531)
+Keywords: Renewable energy generation; Six-phase synchronous generator; Small hydro power generation scheme
+
+A. Vazquez, G. Iglesias, Capital costs in tidal stream energy projects – A spatial approach, Energy, Volume 107, 15 July 2016, Pages 215-226, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.123.
+(http://www.sciencedirect.com/science/article/pii/S036054421630370X)
+Keywords: Tidal stream energy; Levelised cost of energy; Capital costs; Economic map; Geospatial variability; Bristol Channel
+
+A.G. Olabi, 100% sustainable energy, Energy, Volume 77, 1 December 2014, Pages 1-5, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.10.083.
+(http://www.sciencedirect.com/science/article/pii/S036054421401233X)
+
+J. Schiffmann, D. Favrat, Design, experimental investigation and multi-objective optimization of a small-scale radial compressor for heat pump applications, Energy, Volume 35, Issue 1, January 2010, Pages 436-450, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.10.010.
+(http://www.sciencedirect.com/science/article/pii/S0360544209004435)
+Keywords: Domestic heat pump; Oilfree compressor; Centrifugal compressor; Design optimization
+
+Imdat Taymaz, An experimental study of energy balance in low heat rejection diesel engine, Energy, Volume 31, Issues 2–3, February–March 2006, Pages 364-371, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2005.02.004.
+(http://www.sciencedirect.com/science/article/pii/S036054420500037X)
+
+Onder Turan, An exergy way to quantify sustainability metrics for a high bypass turbofan engine, Energy, Volume 86, 15 June 2015, Pages 722-736, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.026.
+(http://www.sciencedirect.com/science/article/pii/S0360544215004582)
+Keywords: Exergy; Sustainability; Energy; Aviation; Turbofan; Propulsion
+
+James J. Murray, Hydroelectric power generation and mineral recovery in the Qattara Depression of Egypt, Energy, Volume 4, Issue 3, June 1979, Pages 463-468, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(79)90073-2.
+(http://www.sciencedirect.com/science/article/pii/0360544279900732)
+
+F. Gutiérrez-Martín, R.A. Da Silva-Álvarez, P. Montoro-Pintado, Effects of wind intermittency on reduction of CO2 emissions: The case of the Spanish power system, Energy, Volume 61, 1 November 2013, Pages 108-117, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.01.057.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000881)
+Keywords: CO2 reduction; Wind power; Electric grid load balancing; Thermal utilities; Cycling
+
+Juan José Cartelle Barros, Manuel Lara Coira, María Pilar de la Cruz López, Alfredo del Caño Gochi, Assessing the global sustainability of different electricity generation systems, Energy, Volume 89, September 2015, Pages 473-489, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.05.110.
+(http://www.sciencedirect.com/science/article/pii/S036054421500732X)
+Keywords: Global sustainability; MIVES; Analytic hierarchy process; Requirement trees; Value functions; Power plants
+
+Giovanni Tanda, Performance of solar air heater ducts with different types of ribs on the absorber plate, Energy, Volume 36, Issue 11, November 2011, Pages 6651-6660, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005834)
+Keywords: Roughened channel; Solar air heater; Effective efficiency; Entropy generation
+
+Bruno Soares M.C. Borba, Alexandre Szklo, Roberto Schaeffer, Plug-in hybrid electric vehicles as a way to maximize the integration of variable renewable energy in power systems: The case of wind generation in northeastern Brazil, Energy, Volume 37, Issue 1, January 2012, Pages 469-481, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007262)
+Keywords: Wind power; Plug-in hybrid vehicles; Power system operation
+
+Adelina P. Davis, Efstathios E. Michaelides, Geothermal power production from abandoned oil wells, Energy, Volume 34, Issue 7, July 2009, Pages 866-872, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.03.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544209000607)
+Keywords: Geothermal; Oil wells; Energy; Isobutane; Double-pipe heat exchanger
+
+A. Arabkoohsar, L. Machado, R.N.N. Koury, Operation analysis of a photovoltaic plant integrated with a compressed air energy storage system and a city gate station, Energy, Volume 98, 1 March 2016, Pages 78-91, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.01.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544216000335)
+Keywords: PV plant; CAES; CGS; Energy analysis; IRR
+
+Michael E. Walker, Ranjani B. Theregowda, Iman Safari, Javad Abbasian, Hamid Arastoopour, David A. Dzombak, Ming-Kai Hsieh, David C. Miller, Utilization of municipal wastewater for cooling in thermoelectric power plants: Evaluation of the combined cost of makeup water treatment and increased condenser fouling, Energy, Volume 60, 1 October 2013, Pages 139-147, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.066.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006725)
+Keywords: Power; Electricity; Fouling; Water treatment; Wastewater; Freshwater conservation
+
+Matthew Neber, Hohyun Lee, Design of a high temperature cavity receiver for residential scale concentrated solar power, Energy, Volume 47, Issue 1, November 2012, Pages 481-487, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.09.005.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006834)
+Keywords: Concentrated solar power; Brayton; Residential scale; Receiver; Optimization
+
+Asmae Berrada, Khalid Loudiyi, Izeddine Zorkani, Profitability, risk, and financial modeling of energy storage in residential and large scale applications, Energy, Volume 119, 15 January 2017, Pages 94-109, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.12.066.
+(http://www.sciencedirect.com/science/article/pii/S0360544216318722)
+Keywords: Economic viability; Optimal modeling; Energy storage; Risk analysis; Sensitivity assessment
+
+Young-Min Kim, Dong-Gil Shin, Sun-Youp Lee, Daniel Favrat, Isothermal transcritical CO2 cycles with TES (thermal energy storage) for electricity storage, Energy, Volume 49, 1 January 2013, Pages 484-501, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.09.057.
+(http://www.sciencedirect.com/science/article/pii/S0360544212007360)
+Keywords: TEES (Thermo-electric energy storage); CO2 transcritical cycle; Back work ratio; Round-trip efficiency; Isothermal compression/expansion
+
+Wei Zuo, Jiaqiang E, Qingguo Peng, Xiaohuan Zhao, Zhiqing Zhang, Numerical investigations on a comparison between counterflow and coflow double-channel micro combustors for micro-thermophotovoltaic system, Energy, Volume 122, 1 March 2017, Pages 408-419, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2017.01.079.
+(http://www.sciencedirect.com/science/article/pii/S0360544217300798)
+Keywords: Micro combustion; Counterflow; Double-channel; Outer mean wall temperature; Outer wall temperature nonuniformity
+
+Abrahim Lavi, Foreword, Energy, Volume 5, Issue 6, June 1980, Pages V-VI, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90070-5.
+(http://www.sciencedirect.com/science/article/pii/0360544280900705)
+
+Hussam Zebian, Marco Gazzino, Alexander Mitsos, Multi-variable optimization of pressurized oxy-coal combustion, Energy, Volume 38, Issue 1, February 2012, Pages 37-57, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.12.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544211008693)
+Keywords: Oxy-combustion; Pressurized oxy-coal; Optimization; Multi-variable optimization
+
+Juan I. Pérez-Díaz, Javier Jiménez, Contribution of a pumped-storage hydropower plant to reduce the scheduling costs of an isolated power system with high wind power penetration, Energy, Volume 109, 15 August 2016, Pages 92-104, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.014.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304121)
+Keywords: Pumped-storage; Wind power integration; Hydrothermal unit commitment
+
+A. Ramadan, M.H. Mohamed, S.Y. Marzok, O.A. Montasser, A. El Feky, A.R. El Baz, An artificial generation of a few specific wave conditions: New simulator design and experimental performance, Energy, Volume 69, 1 May 2014, Pages 309-318, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.018.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002801)
+Keywords: Wave energy; Regular wave; Irregular wave; Artificial wave; Wave energy generation
+
+Berna Haktanırlar Ulutaş, Determination of the appropriate energy policy for Turkey, Energy, Volume 30, Issue 7, June 2005, Pages 1146-1161, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.08.009.
+(http://www.sciencedirect.com/science/article/pii/S036054420400338X)
+
+Matthias Bruhn, Hybrid geothermal–fossil electricity generation from low enthalpy geothermal resources: geothermal feedwater preheating in conventional power plants, Energy, Volume 27, Issue 4, April 2002, Pages 329-346, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(01)00088-3.
+(http://www.sciencedirect.com/science/article/pii/S0360544201000883)
+
+Yemao Li, Jianjun Xia, Hao Fang, Yingbo Su, Yi Jiang, Case study on industrial surplus heat of steel plants for district heating in Northern China, Energy, Volume 102, 1 May 2016, Pages 397-405, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.105.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301670)
+Keywords: District heating; Industrial surplus heat; Heat recovery; Steel plant
+
+Reza Hemmati, Hedayat Saboori, Saeid Saboori, Stochastic risk-averse coordinated scheduling of grid integrated energy storage units in transmission constrained wind-thermal systems within a conditional value-at-risk framework, Energy, Volume 113, 15 October 2016, Pages 762-775, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.07.089.
+(http://www.sciencedirect.com/science/article/pii/S0360544216310143)
+Keywords: Risk-averse programming; Conditional value-at-risk; Two-stage stochastic programming; Unit commitment; Wind uncertainty management; Energy storage system
+
+A. Arabkoohsar, L. Machado, M. Farzaneh-Gord, R.N.N. Koury, The first and second law analysis of a grid connected photovoltaic plant equipped with a compressed air energy storage unit, Energy, Volume 87, 1 July 2015, Pages 520-539, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.05.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005423)
+Keywords: PV farm; CAES; Solar heating system; Energy analysis; Exergy investigation
+
+Yan-Jun Zhang, Zheng-Wei Li, Liang-Liang Guo, Ping Gao, Xian-Peng Jin, Tian-Fu Xu, Electricity generation from enhanced geothermal systems by oilfield produced water circulating through reservoir stimulated by staged fracturing technology for horizontal wells: A case study in Xujiaweizi area in Daqing Oilfield, China, Energy, Volume 78, 15 December 2014, Pages 788-805, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.10.073.
+(http://www.sciencedirect.com/science/article/pii/S0360544214012237)
+Keywords: Enhanced geothermal system; Reservoir stimulation; Numerical simulation; Electricity generation; Staged fracturing technology
+
+G.K. Singh, A. Senthil Kumar, R.P. Saini, Performance evaluation of series compensated self-excited six-phase induction generator for stand-alone renewable energy generation, Energy, Volume 35, Issue 1, January 2010, Pages 288-297, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.09.021.
+(http://www.sciencedirect.com/science/article/pii/S0360544209004071)
+Keywords: Renewable energy generation; Six-phase induction generator; Self-excitation; Small hydropower generation scheme
+
+Gabriele Comodi, Massimiliano Renzi, Mosè Rossi, Energy efficiency improvement in oil refineries through flare gas recovery technique to meet the emission trading targets, Energy, Volume 109, 15 August 2016, Pages 1-12, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.080.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304935)
+Keywords: Refinery; Flare gas recovery system; Liquid ring compressor; Emission trading system
+
+Adrienne B. Little, Srinivas Garimella, Comparative assessment of alternative cycles for waste heat recovery and upgrade, Energy, Volume 36, Issue 7, July 2011, Pages 4492-4504, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.03.069.
+(http://www.sciencedirect.com/science/article/pii/S0360544211002374)
+Keywords: Waste heat recovery; Heat transformer; Absorption cycle; Organic Rankine; Temperature boosting; Heat pump
+
+SeLin Kim, KyungWook Choi, Kihyung Lee, Kibum Kim, Evaluation of automotive waste heat recovery for various driving modes, Energy, Volume 106, 1 July 2016, Pages 579-589, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.077.
+(http://www.sciencedirect.com/science/article/pii/S0360544216303218)
+Keywords: Superheater; WHR (Waste heat recovery); Driving test mode; Rankine cycle
+
+Jorge A. Vidoza, Waldyr L.R. Gallo, Projection of fossil fuels consumption in the Venezuelan electricity generation industry, Energy, Volume 104, 1 June 2016, Pages 237-249, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.03.130.
+(http://www.sciencedirect.com/science/article/pii/S0360544216303772)
+Keywords: Scenario forecast; Fuel consumption; Energy efficiency
+
+Y.M. Kim, D. Favrat, Energy and exergy analysis of a micro-compressed air energy storage and air cycle heating and cooling system, Energy, Volume 35, Issue 1, January 2010, Pages 213-220, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.09.011.
+(http://www.sciencedirect.com/science/article/pii/S0360544209003971)
+Keywords: Compressed air energy storage (CAES); Micro-CAES; Exergy; Second law; Air cycle heating and cooling
+
+Guzmán Díaz, Estefanía Planas, Jon Andreu, Iñigo Kortabarria, Joint cost of energy under an optimal economic policy of hybrid power systems subject to uncertainty, Energy, Volume 88, August 2015, Pages 837-848, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.07.003.
+(http://www.sciencedirect.com/science/article/pii/S0360544215008968)
+Keywords: Hybrid systems; Optimization; LCoE
+
+Andreas Christidis, Christoph Koch, Lothar Pottel, George Tsatsaronis, The contribution of heat storage to the profitable operation of combined heat and power plants in liberalized electricity markets, Energy, Volume 41, Issue 1, May 2012, Pages 75-82, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.06.048.
+(http://www.sciencedirect.com/science/article/pii/S0360544211004348)
+Keywords: Combined heat and power plants; District heating; Heat storage; Design optimization; Unit commitment; Mixed-integer programming
+
+Ahmed M. Daabo, Saad Mahmoud, Raya K. Al-Dadah, Abdalqader Ahmad, Numerical investigation of pitch value on thermal performance of solar receiver for solar powered Brayton cycle application, Energy, Volume 119, 15 January 2017, Pages 523-539, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.12.085.
+(http://www.sciencedirect.com/science/article/pii/S0360544216318904)
+Keywords: Brayton cycle; CFD; Concentrated solar plant; Ray-tracing; Solar thermal receiver; Pitch effect
+
+Richard A. Gaggioli, Teaching elementary thermodynamics and energy conversion: Opinions, Energy, Volume 35, Issue 2, February 2010, Pages 1047-1056, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.06.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002369)
+Keywords: Thermodynamics; Fundamentals; Education
+
+K.A. Kelly, M.C. McManus, G.P. Hammond, An energy and carbon life cycle assessment of tidal power case study: The proposed Cardiff–Weston severn barrage scheme, Energy, Volume 44, Issue 1, August 2012, Pages 692-701, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.05.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544212004033)
+Keywords: Tidal barrage; Life cycle assessment; Low carbon energy
+
+Flavio Manenti, Zohreh Ravaghi-Ardebili, Dynamic simulation of concentrating solar power plant and two-tanks direct thermal energy storage, Energy, Volume 55, 15 June 2013, Pages 89-97, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000960)
+Keywords: Archimede plant; Concentrating solar; Economizer model; Dynamic simulation; Thermal energy storage; Direct storage
+
+Jean-François Mercure, Pablo Salas, An assessement of global energy resource economic potentials, Energy, Volume 46, Issue 1, October 2012, Pages 322-336, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.08.018.
+(http://www.sciencedirect.com/science/article/pii/S0360544212006305)
+Keywords: Global energy resources; Climate change mitigation; Economic potential; Renewable energy; Fossil fuels
+
+H. Kotb, E.H. Amer, K.A. Ibrahim, On the optimization of RO (Reverse Osmosis) system arrangements and their operating conditions, Energy, Volume 103, 15 May 2016, Pages 127-150, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.162.
+(http://www.sciencedirect.com/science/article/pii/S0360544216302249)
+Keywords: Reverse osmosis; Multi-stage; Operating conditions; Optimum configuration; Minimum cost; Design charts
+
+Alfred Voss, Waves, currents, tides—problems and prospects, Energy, Volume 4, Issue 5, October 1979, Pages 823-831, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(79)90014-8.
+(http://www.sciencedirect.com/science/article/pii/0360544279900148)
+
+Andrea Toffolo, Andrea Lazzaretto, Matteo Morandin, The HEATSEP method for the synthesis of thermal systems: An application to the S-Graz cycle, Energy, Volume 35, Issue 2, February 2010, Pages 976-981, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.06.030.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002497)
+Keywords: Synthesis/design optimization; S-Graz cycle; Internal heat transfer
+
+Wen-xiao Chu, Ting Ma, Min Zeng, Ting Qu, Liang-bi Wang, Qiu-wang Wang, Improvements on maldistribution of a high temperature multi-channel compact heat exchanger by different inlet baffles, Energy, Volume 75, 1 October 2014, Pages 104-115, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.05.021.
+(http://www.sciencedirect.com/science/article/pii/S0360544214005702)
+Keywords: Maldistribution; High temperature; Multi-channel heat exchanger; Helical baffles; Equidifferent pitches
+
+Ivar Baldvinsson, Toshihiko Nakata, A feasibility and performance assessment of a low temperature district heating system – A North Japanese case study, Energy, Volume 95, 15 January 2016, Pages 155-174, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.11.057.
+(http://www.sciencedirect.com/science/article/pii/S0360544215016205)
+Keywords: Low temperature district heating; Energy quality management; Exergy efficiency; Cogeneration; Energy efficiency
+
+Ali Ghannadzadeh, Raphaële Thery-Hetreux, Olivier Baudouin, Philippe Baudet, Pascal Floquet, Xavier Joulia, General methodology for exergy balance in ProSimPlus® process simulator, Energy, Volume 44, Issue 1, August 2012, Pages 38-59, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.017.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001120)
+Keywords: Exergy analysis; Process design; Process integration; Process simulator
+
+A.R. Tavakolpour-Saleh, H. Jokar, Neural network-based control of an intelligent solar Stirling pump, Energy, Volume 94, 1 January 2016, Pages 508-523, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.11.006.
+(http://www.sciencedirect.com/science/article/pii/S0360544215015297)
+Keywords: Neural network control; Active Stirling pump; Low temperature
+
+Davide Maria Turi, Paolo Chiesa, Ennio Macchi, Ahmed F. Ghoniem, High fidelity model of the oxygen flux across ion transport membrane reactor: Mechanism characterization using experimental data, Energy, Volume 96, 1 February 2016, Pages 127-141, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.12.055.
+(http://www.sciencedirect.com/science/article/pii/S0360544215016989)
+Keywords: Oxy-combustion; CO2 capture; Oxygen membranes; LCF; ACM
+
+Alessandro Franco, Maurizio Vaccaro, An integrated “Reservoir-Plant” strategy for a sustainable and efficient use of geothermal resources, Energy, Volume 37, Issue 1, January 2012, Pages 299-310, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007596)
+Keywords: Geothermal energy; Medium-low temperature geothermal fields; ORC power plants; Sustainability; Numerical simulation
+
+Ireneusz Szczygieł, Wojciech Stanek, Jan Szargut, Application of the Stirling engine driven with cryogenic exergy of LNG (liquefied natural gas) for the production of electricity, Energy, Volume 105, 15 June 2016, Pages 25-31, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.112.
+(http://www.sciencedirect.com/science/article/pii/S0360544215011937)
+Keywords: Liquefied natural gas; Regasification; Stirling engine; Exergy analysis; Thermodynamic model
+
+Anil Singh Yadav, J.L. Bhagoria, A CFD (computational fluid dynamics) based heat transfer and fluid flow analysis of a solar air heater provided with circular transverse wire rib roughness on the absorber plate, Energy, Volume 55, 15 June 2013, Pages 1127-1142, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.03.066.
+(http://www.sciencedirect.com/science/article/pii/S0360544213002624)
+Keywords: Solar air heater; Artificial roughness; Heat transfer enhancement; Friction factor; Thermal enhancement factor; CFD
+
+O.O. Mojola, Aerodynamics of raindrops and its energy resource implications, Energy, Volume 10, Issue 9, September 1985, Pages 999-1007, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(85)90124-0.
+(http://www.sciencedirect.com/science/article/pii/0360544285901240)
+
+Yingxia Qi, Xiangqi Meng, Defu Mu, Yangliu Sun, Hua Zhang, Study on mechanism and factors affecting the gas leakage through clearance seal at nano-level by molecular dynamics method, Energy, Volume 102, 1 May 2016, Pages 252-259, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.087.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301499)
+Keywords: Clearance seal; Leakage rate; Molecular dynamics simulations
+
+L.C. Ding, A. Akbarzadeh, Abhijit Date, D.J. Frawley, Passive small scale electric power generation using thermoelectric cells in solar pond, Energy, Volume 117, Part 1, 15 December 2016, Pages 149-165, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.10.085.
+(http://www.sciencedirect.com/science/article/pii/S0360544216315195)
+Keywords: Solar pond; Heat extraction; Heat exchanger; Thermoelectric cells; Power generation; Renewable energy
+
+Endre Nagy, József Dudás, Imre Hegedüs, Improvement of the energy generation by pressure retarded osmosis, Energy, Volume 116, Part 2, 1 December 2016, Pages 1323-1333, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.150.
+(http://www.sciencedirect.com/science/article/pii/S0360544216309410)
+Keywords: Energy generation; Pressure retarded osmosis; Water flux; Fouling; Resistance-in-series model; Overall mass transfer coefficient
+
+J.C.C. Henriques, J.J. Cândido, M.T. Pontes, A.F.O. Falcão, Wave energy resource assessment for a breakwater-integrated oscillating water column plant at Porto, Portugal, Energy, Volume 63, 15 December 2013, Pages 52-60, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.09.063.
+(http://www.sciencedirect.com/science/article/pii/S0360544213008293)
+Keywords: Ocean waves refraction; Numerical wind-wave models; Wave measurements; Breakwater OWC
+
+Hayato Hagi, Yann Le Moullec, Maroun Nemer, Chakib Bouallou, Performance assessment of first generation oxy-coal power plants through an exergy-based process integration methodology, Energy, Volume 69, 1 May 2014, Pages 272-284, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002618)
+Keywords: CO2 capture; Cryogenic distillation; Exergy analysis; Oxy-combustion; Power plant integration
+
+Mostafa H. Sharqawy, Syed M. Zubair, John H. Lienhard V, Second law analysis of reverse osmosis desalination plants: An alternative design using pressure retarded osmosis, Energy, Volume 36, Issue 11, November 2011, Pages 6617-6626, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.08.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005962)
+Keywords: Exergy analysis; Seawater; Reverse osmosis; Pressure retarded osmosis; Desalination; Energy recovery device
+
+Ranchan Chauhan, N.S. Thakur, Investigation of the thermohydraulic performance of impinging jet solar air heater, Energy, Volume 68, 15 April 2014, Pages 255-261, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.02.059.
+(http://www.sciencedirect.com/science/article/pii/S0360544214001935)
+Keywords: Effective efficiency; Reynolds number; Solar air heater
+
+Tatiana Biagetti, Enrico Sciubba, Automatic diagnostics and prognostics of energy conversion processes via knowledge-based systems, Energy, Volume 29, Issues 12–15, October–December 2004, Pages 2553-2572, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.03.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544204001082)
+
+Jan Szargut, Ireneusz Szczygiel, Utilization of the cryogenic exergy of liquid natural gas (LNG) for the production of electricity, Energy, Volume 34, Issue 7, July 2009, Pages 827-837, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.02.015.
+(http://www.sciencedirect.com/science/article/pii/S0360544209000516)
+Keywords: Liquid natural gas; Cryogenic exergy; Cold power plant
+
+Evangelos G. Giakoumis, Athanasios M. Dimaratos, Constantine D. Rakopoulos, Experimental study of combustion noise radiation during transient turbocharged diesel engine operation, Energy, Volume 36, Issue 8, August 2011, Pages 4983-4995, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.05.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544211003689)
+Keywords: Diesel engine; Combustion noise; Acceleration; Load increase; Turbocharger lag
+
+W. Rachtan, L. Malinowski, An approximate expression for part-load performance of a microturbine combined heat and power system heat recovery unit, Energy, Volume 51, 1 March 2013, Pages 146-153, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.12.037.
+(http://www.sciencedirect.com/science/article/pii/S0360544213000030)
+Keywords: CHP; Microturbine; Part-load operation; Heat recovery; Approximate expression
+
+Alexander S. Rattner, Srinivas Garimella, Energy harvesting, reuse and upgrade to reduce primary energy usage in the USA, Energy, Volume 36, Issue 10, October 2011, Pages 6172-6183, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.07.047.
+(http://www.sciencedirect.com/science/article/pii/S0360544211005214)
+Keywords: Waste heat; Energy quality; USA energy resources; Thermal; Geocoded; Pulp and paper
+
+Matteo Morandin, François Maréchal, Mehmet Mercangöz, Florian Buchter, Conceptual design of a thermo-electrical energy storage system based on heat integration of thermodynamic cycles – Part A: Methodology and base case, Energy, Volume 45, Issue 1, September 2012, Pages 375-385, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.03.031.
+(http://www.sciencedirect.com/science/article/pii/S0360544212002228)
+Keywords: Energy storage; Pinch Analysis; Synthesis; Thermo-electrical energy storage (TEES); Transcritical CO2
+
+Samuel Henchoz, Florian Buchter, Daniel Favrat, Matteo Morandin, Mehmet Mercangöz, Thermoeconomic analysis of a solar enhanced energy storage concept based on thermodynamic cycles, Energy, Volume 45, Issue 1, September 2012, Pages 358-365, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.02.010.
+(http://www.sciencedirect.com/science/article/pii/S0360544212001041)
+Keywords: Thermoeconomy; Energy storage; Thermodynamic cycles; Heat-pump; Heat-engine; Solar energy
+
+N. Mazzi, S. Rech, A. Lazzaretto, Off-design dynamic model of a real Organic Rankine Cycle system fuelled by exhaust gases from industrial processes, Energy, Volume 90, Part 1, October 2015, Pages 537-551, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.07.083.
+(http://www.sciencedirect.com/science/article/pii/S0360544215009780)
+Keywords: Off-design dynamic modeling; Waste heat recovery; Organic Rankine Cycle; Shell-and-tube; Heat exchangers
+
+Shih-Chieh Kao, Michael J. Sale, Moetasim Ashfaq, Rocio Uria Martinez, Dale P. Kaiser, Yaxing Wei, Noah S. Diffenbaugh, Projecting changes in annual hydropower generation using regional runoff data: An assessment of the United States federal hydropower plants, Energy, Volume 80, 1 February 2015, Pages 239-250, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.11.066.
+(http://www.sciencedirect.com/science/article/pii/S0360544214013218)
+Keywords: Climate change; Hydropower; Water availability
+
+P.-A. Haldi, D. Favrat, Methodological aspects of the definition of a 2 kW society, Energy, Volume 31, Issue 15, December 2006, Pages 3159-3170, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2006.02.011.
+(http://www.sciencedirect.com/science/article/pii/S0360544206000557)
+Keywords: Exergy; Primary energy; Methodology
+
+Trieu Mai, David Mulcahy, M. Maureen Hand, Samuel F. Baldwin, Envisioning a renewable electricity future for the United States, Energy, Volume 65, 1 February 2014, Pages 374-386, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.11.029.
+(http://www.sciencedirect.com/science/article/pii/S0360544213009912)
+Keywords: Grid integration; Renewable electricity; Scenario analysis; Optimization model
+
+M.K. Mittal, Varun, R.P. Saini, S.K. Singal, Effective efficiency of solar air heaters having different types of roughness elements on the absorber plate, Energy, Volume 32, Issue 5, May 2007, Pages 739-745, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2006.05.009.
+(http://www.sciencedirect.com/science/article/pii/S0360544206001265)
+Keywords: Solar air heater; Artificial roughness; Effective efficiency; Heat transfer; Friction factor
+
+M. López, F. Taveira-Pinto, P. Rosa-Santos, Influence of the power take-off characteristics on the performance of CECO wave energy converter, Energy, Volume 120, 1 February 2017, Pages 686-697, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.11.121.
+(http://www.sciencedirect.com/science/article/pii/S0360544216317765)
+Keywords: Wave energy; WEC; Numerical modelling; PTO; Damping; Efficiency
+
+Dong Hyun Lee, Dong-Ho Rhee, Kyung Min Kim, Hyung Hee Cho, Hee Koo Moon, Detailed measurement of heat/mass transfer with continuous and multiple V-shaped ribs in rectangular channel, Energy, Volume 34, Issue 11, November 2009, Pages 1770-1778, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.07.011.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002898)
+Keywords: Internal passage cooling; Channel aspect ratios; Rib turbulators; Naphthalene sublimation technique
+
+Jesús Benajes, Santiago Molina, Ricardo Novella, Eduardo Belarte, Evaluation of massive exhaust gas recirculation and Miller cycle strategies for mixing-controlled low temperature combustion in a heavy duty diesel engine, Energy, Volume 71, 15 July 2014, Pages 355-366, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.083.
+(http://www.sciencedirect.com/science/article/pii/S0360544214004964)
+Keywords: Compression ignition engines; Emissions control; Engine efficiency; Low temperature combustion; Miller cycle
+
+A. Stoppato, A. Mirandola, G. Meneghetti, E. Lo Casto, On the operation strategy of steam power plants working at variable load: Technical and economic issues, Energy, Volume 37, Issue 1, January 2012, Pages 228-236, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.042.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007730)
+Keywords: Steam power plants; Deregulated market; Production schedule; Fatigue; Creep-fatigue models; Life estimation
+
+Gholamreza Bamorovat Abadi, Eunkoo Yun, Kyung Chun Kim, Experimental study of a 1 kw organic Rankine cycle with a zeotropic mixture of R245fa/R134a, Energy, Volume 93, Part 2, 15 December 2015, Pages 2363-2373, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.092.
+(http://www.sciencedirect.com/science/article/pii/S0360544215014607)
+Keywords: Organic Rankine cycle; Zeotropic mixtures; R245fa; R134a; Composition shift
+
+Sukhmeet Singh, Bikramjit Singh, V.S. Hans, R.S. Gill, CFD (computational fluid dynamics) investigation on Nusselt number and friction factor of solar air heater duct roughened with non-uniform cross-section transverse rib, Energy, Volume 84, 1 May 2015, Pages 509-517, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.015.
+(http://www.sciencedirect.com/science/article/pii/S0360544215003096)
+Keywords: Nusselt number; Friction factor; Non-uniform rib; Saw-tooth rib; Periodic flow
+
+Yongqiang Feng, TzuChen Hung, Yaning Zhang, Bingxi Li, Jinfu Yang, Yang Shi, Performance comparison of low-grade ORCs (organic Rankine cycles) using R245fa, pentane and their mixtures based on the thermoeconomic multi-objective optimization and decision makings, Energy, Volume 93, Part 2, 15 December 2015, Pages 2018-2029, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.065.
+(http://www.sciencedirect.com/science/article/pii/S0360544215014334)
+Keywords: ORCs (organic Rankine cycles); Thermoeconomic optimization; Levelized energy cost (LEC); Mixture working fluids; Decision makings
+
+Zora Kovacic, Mario Giampietro, Empty promises or promising futures? The case of smart grids, Energy, Volume 93, Part 1, 15 December 2015, Pages 67-74, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.116.
+(http://www.sciencedirect.com/science/article/pii/S0360544215012141)
+Keywords: Quality assessment; Complexity; Uncertainty; Multi-scale; Energy; Electricity
+
+Benjamin M. Adams, Thomas H. Kuehn, Jeffrey M. Bielicki, Jimmy B. Randolph, Martin O. Saar, On the importance of the thermosiphon effect in CPG (CO2 plume geothermal) power systems, Energy, Volume 69, 1 May 2014, Pages 409-418, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.03.032.
+(http://www.sciencedirect.com/science/article/pii/S0360544214002965)
+Keywords: Carbon dioxide; Geothermal energy; Carbon dioxide utilization; Thermosiphon; Renewable energy; Carbon dioxide plume
+
+Wei-Hsin Chen, Shih-Cheng Lin, Reaction phenomena of catalytic partial oxidation of methane under the impact of carbon dioxide addition and heat recirculation, Energy, Volume 82, 15 March 2015, Pages 206-217, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.031.
+(http://www.sciencedirect.com/science/article/pii/S036054421500050X)
+Keywords: Catalytic partial oxidation of methane (CPOM); Dry reforming and steam reforming; Syngas production; CO2 utilization; Numerical simulation; Swiss-roll reactor
+
+Jesús Benajes, Antonio García, José Manuel Pastor, Javier Monsalve-Serrano, Effects of piston bowl geometry on Reactivity Controlled Compression Ignition heat transfer and combustion losses at different engine loads, Energy, Volume 98, 1 March 2016, Pages 64-77, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.01.014.
+(http://www.sciencedirect.com/science/article/pii/S0360544216000244)
+Keywords: Reactivity Controlled Compression Ignition; Heat transfer; Efficiency; Dual fuel; Combustion
+
+Dionysios P. Xenos, Philipp Hofmann, Kyriakos D. Panopoulos, Emmanuel Kakaras, Detailed transient thermal simulation of a planar SOFC (solid oxide fuel cell) using gPROMS™, Energy, Volume 81, 1 March 2015, Pages 84-102, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.11.049.
+(http://www.sciencedirect.com/science/article/pii/S0360544214013048)
+Keywords: Solid oxide fuel cell; SOFC; Thermal; gPROMS; Simulation
+
+H.L. Brey, Fort St. Vrain operations and future, Energy, Volume 16, Issues 1–2, January–February 1991, Pages 47-58, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(91)90086-2.
+(http://www.sciencedirect.com/science/article/pii/0360544291900862)
+
+Jesús Benajes, Santiago Molina, Antonio García, Javier Monsalve-Serrano, Effects of low reactivity fuel characteristics and blending ratio on low load RCCI (reactivity controlled compression ignition) performance and emissions in a heavy-duty diesel engine, Energy, Volume 90, Part 2, October 2015, Pages 1261-1271, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.088.
+(http://www.sciencedirect.com/science/article/pii/S0360544215008440)
+Keywords: Reactivity controlled compression ignition; Low load; Low reactivity fuels; Mixing process; Efficiency
+
+J.W. Chinneck, M. Chandrashekar, Models of large-scale industrial energy systems—I. Simulation, Energy, Volume 9, Issue 1, January 1984, Pages 21-34, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(84)90074-4.
+(http://www.sciencedirect.com/science/article/pii/0360544284900744)
+
+Xufei Yang, Jinliang Xu, Zheng Miao, Jinghuang Zou, Chao Yu, Operation of an organic Rankine cycle dependent on pumping flow rates and expander torques, Energy, Volume 90, Part 1, October 2015, Pages 864-878, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.07.121.
+(http://www.sciencedirect.com/science/article/pii/S0360544215010166)
+Keywords: Organic Rankine cycle; Pump; Expander; Thermodynamic; Heat transfer
+
+Yong Sun, Yiping Wang, Li Zhu, Baoquan Yin, Haijun Xiang, Qunwu Huang, Direct liquid-immersion cooling of concentrator silicon solar cells in a linear concentrating photovoltaic receiver, Energy, Volume 65, 1 February 2014, Pages 264-271, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.11.063.
+(http://www.sciencedirect.com/science/article/pii/S0360544213010335)
+Keywords: Concentrating photovoltaic; Liquid immersion cooling; Narrow rectangular channel; Dimethyl silicon oil; Direct contact heat transfer
+
+Cengiz Kahraman, İhsan Kaya, Selcuk Cebi, A comparative analysis for multiattribute selection among renewable energy alternatives using fuzzy axiomatic design and fuzzy analytic hierarchy process, Energy, Volume 34, Issue 10, October 2009, Pages 1603-1616, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.07.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544209002862)
+Keywords: Renewable energy; Fuzzy; Decision making; AHP; Axiomatic design
+
+Tae-Ho Woo, Un-Chul Lee, Safety assessment for the passive system of the nuclear power plants (NPPs) using safety margin estimation, Energy, Volume 35, Issue 4, April 2010, Pages 1799-1804, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.12.034.
+(http://www.sciencedirect.com/science/article/pii/S0360544209005544)
+Keywords: Probabilistic safety assessment; Very high temperature reactor; Passive system; Anticipated transient without scram
+
+Sungjun Hong, Yanghon Chung, Chungwon Woo, Scenario analysis for estimating the learning rate of photovoltaic power generation based on learning curve theory in South Korea, Energy, Volume 79, 1 January 2015, Pages 80-89, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.10.050.
+(http://www.sciencedirect.com/science/article/pii/S0360544214012006)
+Keywords: Photovoltaic power generation; Learning curve; Cost analysis
+
+Gianluigi Lo Basso, Livio de Santoli, Angelo Albo, Benedetto Nastasi, H2NG (hydrogen-natural gas mixtures) effects on energy performances of a condensing micro-CHP (combined heat and power) for residential applications: An expeditious assessment of water condensation and experimental analysis, Energy, Volume 84, 1 May 2015, Pages 397-418, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.006.
+(http://www.sciencedirect.com/science/article/pii/S0360544215002893)
+Keywords: Hydrogen-methane mixtures; H2NG (hydrogen-natural gas mixture); Internal combustion engine; Micro CHP (combined heat and power); Water condensation from exhaust gas; Residential building applications
+
+Léda Gerber, François Maréchal, Environomic optimal configurations of geothermal energy conversion systems: Application to the future construction of Enhanced Geothermal Systems in Switzerland, Energy, Volume 45, Issue 1, September 2012, Pages 908-923, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.06.068.
+(http://www.sciencedirect.com/science/article/pii/S0360544212005208)
+Keywords: Geothermal energy; Energy conversion systems; Combined heat and power; Multi-objective optimization; Life Cycle Assessment; Enhanced Geothermal Systems
+
+Sunil Chamoli, Hybrid FAHP (fuzzy analytical hierarchy process)-FTOPSIS (fuzzy technique for order preference by similarity of an ideal solution) approach for performance evaluation of the V down perforated baffle roughened rectangular channel, Energy, Volume 84, 1 May 2015, Pages 432-442, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.007.
+(http://www.sciencedirect.com/science/article/pii/S036054421500290X)
+Keywords: Performance; FAHP; FTOPSIS; Perforated baffles
+
+Ignacio Guisández, Juan I. Pérez-Díaz, José R. Wilhelmi, Approximate formulae for the assessment of the long-term economic impact of environmental constraints on hydropeaking, Energy, Volume 112, 1 October 2016, Pages 629-641, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.076.
+(http://www.sciencedirect.com/science/article/pii/S0360544216308507)
+Keywords: Minimum environmental flows; Maximum ramping rates; Hydropeaking; Incremental dynamic programming; Mixed integer linear programming; Economic impact formulae
+
+Fengming Chu, Lijun Yang, Xiaoze Du, Yongping Yang, CO2 capture using MEA (monoethanolamine) aqueous solution in coal-fired power plants: Modeling and optimization of the absorbing columns, Energy, Volume 109, 15 August 2016, Pages 495-505, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.123.
+(http://www.sciencedirect.com/science/article/pii/S0360544216305436)
+Keywords: Carbon dioxide capture; MEA solution; Absorbing column; Mass transfer coefficient; Energy saving
+
+Xiaohua Wang, Zhenming Feng, Qishuo Ding, Increased energy use in Jiangsu province of China with protection of the environment, Energy, Volume 24, Issue 5, May 1999, Pages 413-417, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(99)00005-5.
+(http://www.sciencedirect.com/science/article/pii/S0360544299000055)
+
+Brij Bhushan, Ranjit Singh, A review on methodology of artificial roughness used in duct of solar air heaters, Energy, Volume 35, Issue 1, January 2010, Pages 202-212, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.09.010.
+(http://www.sciencedirect.com/science/article/pii/S036054420900396X)
+Keywords: Solar air heater; Artificial roughness; Nusselt number; Friction factor
+
+Yongqiang Feng, Yaning Zhang, Bingxi Li, Jinfu Yang, Yang Shi, Sensitivity analysis and thermoeconomic comparison of ORCs (organic Rankine cycles) for low temperature waste heat recovery, Energy, Volume 82, 15 March 2015, Pages 664-677, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.01.075.
+(http://www.sciencedirect.com/science/article/pii/S0360544215000997)
+Keywords: Organic Rankine cycles (ORCs); Thermoeconomic comparison; Heat exchanger area per unit net power output (APR); Non-dominated sorting genetic algorithm-II (NSGA-II)
+
+Francisco J. Chueco-Fernández, Ángel A. Bayod-Rújula, Power supply for pumping systems in northern Chile: Photovoltaics as alternative to grid extension and diesel engines, Energy, Volume 35, Issue 7, July 2010, Pages 2909-2921, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.03.022.
+(http://www.sciencedirect.com/science/article/pii/S0360544210001416)
+Keywords: Photovoltaics; Diesel generators; Grid extension; Electrical pumping
+
+Monica Carvalho, Luis Maria Serra, Miguel Angel Lozano, Optimal synthesis of trigeneration systems subject to environmental constraints, Energy, Volume 36, Issue 6, June 2011, Pages 3779-3790, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.09.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544210005025)
+Keywords: Trigeneration; Mixed integer linear programming (MILP); Optimization; Eco-indicator 99; CO2 emissions; Life cycle assessment (LCA)
+
+Jian Liu, Yidan Song, Gongnan Xie, Bengt Sunden, Numerical modeling flow and heat transfer in dimpled cooling channels with secondary hemispherical protrusions, Energy, Volume 79, 1 January 2015, Pages 1-19, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.05.075.
+(http://www.sciencedirect.com/science/article/pii/S0360544214006422)
+Keywords: Dimpled cooling channel; Secondary protrusions; Vortex structure; Turbulence mixing; Heat transfer enhancement; Thermal performance
+
+Gerald L. Wick, Power from salinity gradients, Energy, Volume 3, Issue 1, February 1978, Pages 95-100, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(78)90059-2.
+(http://www.sciencedirect.com/science/article/pii/0360544278900592)
+
+M. Chandrashekar, F.C. Wong, Thermodynamic systems analysis—I. A graph-theoretic approach, Energy, Volume 7, Issue 6, June 1982, Pages 539-566, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(82)90013-5.
+(http://www.sciencedirect.com/science/article/pii/0360544282900135)
+
+Romulo S. de Lima, Roberto Schaeffer, The energy efficiency of crude oil refining in Brazil: A Brazilian refinery plant case, Energy, Volume 36, Issue 5, May 2011, Pages 3101-3112, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.02.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544211001526)
+Keywords: Energy consumption; Complexity; Refinery; Efficiency; Petroleum
+
+Monica Carvalho, Luis M. Serra, Miguel A. Lozano, Geographic evaluation of trigeneration systems in the tertiary sector. Effect of climatic and electricity supply conditions, Energy, Volume 36, Issue 4, April 2011, Pages 1931-1939, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.02.036.
+(http://www.sciencedirect.com/science/article/pii/S036054421000099X)
+Keywords: Trigeneration; Mixed integer linear programming (MILP); Optimization; Environmental optimization
+
+Wen-Tien Tsai, An analysis of used lubricant recycling, energy utilization and its environmental benefit in Taiwan, Energy, Volume 36, Issue 7, July 2011, Pages 4333-4339, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.04.008.
+(http://www.sciencedirect.com/science/article/pii/S036054421100257X)
+Keywords: Used lubricant; Energy utilization; Promotion measure; Energy policy; Benefit analysis
+
+C. Carcasci, L. Marini, B. Morini, M. Porcelli, A new modular procedure for industrial plant simulations and its reliable implementation, Energy, Volume 94, 1 January 2016, Pages 380-390, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.122.
+(http://www.sciencedirect.com/science/article/pii/S0360544215015005)
+Keywords: Industrial plants simulation; Modular 0/1-D codes; Fully implicit methods; Constrained nonlinear systems of equations; Trust-region Gauss–Newton methods
+
+Robert U Ayres, Leslie W Ayres, Benjamin Warr, Exergy, power and work in the US economy, 1900–1998, Energy, Volume 28, Issue 3, March 2003, Pages 219-273, ISSN 0360-5442, http://dx.doi.org/10.1016/S0360-5442(02)00089-0.
+(http://www.sciencedirect.com/science/article/pii/S0360544202000890)
+
+Tao Ren, Martin Patel, Kornelis Blok, Olefins from conventional and heavy feedstocks: Energy use in steam cracking and alternative processes, Energy, Volume 31, Issue 4, March 2006, Pages 425-451, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2005.04.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544205000745)
+
+Guisheng Chen, Yinggang Shen, Quanchang Zhang, Mingfa Yao, Zunqing Zheng, Haifeng Liu, Experimental study on combustion and emission characteristics of a diesel engine fueled with 2,5-dimethylfuran–diesel, n-butanol–diesel and gasoline–diesel blends, Energy, Volume 54, 1 June 2013, Pages 333-342, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.069.
+(http://www.sciencedirect.com/science/article/pii/S0360544213002041)
+Keywords: Diesel engine; DMF; Fuel property; Ignition delay; Emissions
+
+Fankai Meng, Lingen Chen, Fengrui Sun, Bo Yang, Thermoelectric power generation driven by blast furnace slag flushing water, Energy, Volume 66, 1 March 2014, Pages 965-972, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.02.018.
+(http://www.sciencedirect.com/science/article/pii/S0360544214001522)
+Keywords: Iron and steel industry; Slag flashing water; Waste heat recovery; Energy-saving; Thermoelectric; Power generation
+
+D. Manolakos, G. Kosmadakis, S. Kyritsis, G. Papadakis, Identification of behaviour and evaluation of performance of small scale, low-temperature Organic Rankine Cycle system coupled with a RO desalination unit, Energy, Volume 34, Issue 6, June 2009, Pages 767-774, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.02.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544209000474)
+Keywords: Organic Rankine Cycle; Scroll expander; RO desalination; RO energy Recovery
+
+Falah Alobaid, Peter Ohlemüller, Jochen Ströhle, Bernd Epple, Extended Euler–Euler model for the simulation of a 1 MWth chemical–looping pilot plant, Energy, Volume 93, Part 2, 15 December 2015, Pages 2395-2405, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.10.107.
+(http://www.sciencedirect.com/science/article/pii/S0360544215014851)
+Keywords: Chemical–looping combustion; Computational fluid dynamics; Euler–Euler model; Thermochemical reaction model; 1 MWth pilot plant; Validation study
+
+Sun Choi, Tae Young Kim, Hee Kyung Kim, Jaye Koo, Jeong Soo Kim, Oh Chae Kwon, Properties of inverse nonpremixed pure O2/CH4 coflow flames in a model combustor, Energy, Volume 93, Part 1, 15 December 2015, Pages 1105-1115, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.110.
+(http://www.sciencedirect.com/science/article/pii/S0360544215013201)
+Keywords: Methane; Oxy-fuel combustion; Inverse coflow flame; Extinction limits; Bipropellants
+
+Mohammad Ali Goudarzi, Proposing a new technique to enhance thermal performance and reduce structural design wind loads for natural drought cooling towers, Energy, Volume 62, 1 December 2013, Pages 164-172, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.09.033.
+(http://www.sciencedirect.com/science/article/pii/S0360544213007846)
+Keywords: Structural design wind loads; Thermal performance; Natural draught cooling towers; CFD
+
+Grzegorz Przybyla, Andrzej Szlek, Dale Haggith, Andrzej Sobiesiak, Fuelling of spark ignition and homogenous charge compression ignition engines with low calorific value producer gas, Energy, Volume 116, Part 3, 1 December 2016, Pages 1464-1478, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.036.
+(http://www.sciencedirect.com/science/article/pii/S036054421630809X)
+Keywords: Gasification; Biomass; Biogas; Energy efficiency; Internal combustion engine; Emission
+
+C.A. Hendriks, K. Blok, W.C. Turkenburg, Technology and cost of recovering and storing carbon dioxide from an integrated-gasifier, combined-cycle plant, Energy, Volume 16, Issues 11–12, November–December 1991, Pages 1277-1293, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(91)90002-4.
+(http://www.sciencedirect.com/science/article/pii/0360544291900024)
+
+John Haraden, The status of hot dry rock as an energy source, Energy, Volume 17, Issue 8, August 1992, Pages 777-786, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(92)90121-F.
+(http://www.sciencedirect.com/science/article/pii/036054429290121F)
+
+Na Zhang, Noam Lior, Hongguang Jin, The energy situation and its sustainable development strategy in China, Energy, Volume 36, Issue 6, June 2011, Pages 3639-3649, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.01.035.
+(http://www.sciencedirect.com/science/article/pii/S0360544211000582)
+Keywords: China; Energy; Energy strategy; Environmental impacts; Sustainable development
+
+Umberto Desideri, Livia Arcioni, Daniela Leonardi, Luca Cesaretti, Perla Perugini, Elena Agabitini, Nicola Evangelisti, Design of a multipurpose “zero energy consumption” building according to European Directive 2010/31/EU: Architectural and technical plants solutions, Energy, Volume 58, 1 September 2013, Pages 157-167, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.063.
+(http://www.sciencedirect.com/science/article/pii/S0360544213001965)
+Keywords: Sustainability; Zero energy building; Insulation materials; Energy efficient building
+
+Roberto Bracco, Stefano Clemente, Diego Micheli, Mauro Reini, Experimental tests and modelization of a domestic-scale ORC (Organic Rankine Cycle), Energy, Volume 58, 1 September 2013, Pages 107-116, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.12.016.
+(http://www.sciencedirect.com/science/article/pii/S0360544212009280)
+Keywords: Organic Rankine cycle; Scroll expander; ORC test bench; ORC dynamic modelization
+
+Rene Prieler, Bernhard Mayr, Martin Demuth, Davor Spoljaric, Christoph Hochenauer, Application of the steady flamelet model on a lab-scale and an industrial furnace for different oxygen concentrations, Energy, Volume 91, November 2015, Pages 451-464, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.08.070.
+(http://www.sciencedirect.com/science/article/pii/S0360544215011469)
+Keywords: Oxygen enriched combustion; Reheating furnace; Computational fluid dynamics; Energetic efficiency; Steady flamelet
+
+Krzysztof Gosiewski, Anna Pawlaczyk, Manfred Jaschik, Energy recovery from ventilation air methane via reverse-flow reactors, Energy, Volume 92, Part 1, 1 December 2015, Pages 13-23, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.004.
+(http://www.sciencedirect.com/science/article/pii/S0360544215006714)
+Keywords: Reverse-flow reactors; Thermal combustion; (VAM) Ventilation air methane; Energy recovery
+
+Antonio Gómez, Javier Zubizarreta, César Dopazo, Norberto Fueyo, Spanish energy roadmap to 2020: Socioeconomic implications of renewable targets, Energy, Volume 36, Issue 4, April 2011, Pages 1973-1985, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.02.046.
+(http://www.sciencedirect.com/science/article/pii/S0360544210001106)
+Keywords: Renewable energy; Energy demand; Energy scenarios; Energy system analyses; Electricity cost; CO2 emissions
+
+Wang Fuqiang, Tang Zhexiang, Gong Xiangtao, Tan Jianyu, Han Huaizhi, Li Bingxi, Heat transfer performance enhancement and thermal strain restrain of tube receiver for parabolic trough solar collector by using asymmetric outward convex corrugated tube, Energy, Volume 114, 1 November 2016, Pages 275-292, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.08.013.
+(http://www.sciencedirect.com/science/article/pii/S0360544216311161)
+Keywords: Solar energy; Parabolic trough collector; Tube receiver; Asymmetric outward convex corrugated tube; Thermal strain; Heat transfer performance
+
+Hao Fang, Jianjun Xia, Yi Jiang, Key issues and solutions in a district heating system using low-grade industrial waste heat, Energy, Volume 86, 15 June 2015, Pages 589-602, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.04.052.
+(http://www.sciencedirect.com/science/article/pii/S0360544215005071)
+Keywords: Low-grade industrial waste heat; Low-temperature district heating; Multiple-grade waste heat collection; Long-distance delivery; Peak-shaving method; Tangency technology
+
+Pedro Nunes, Tiago Farias, Miguel C. Brito, Day charging electric vehicles with excess solar electricity for a sustainable energy system, Energy, Volume 80, 1 February 2015, Pages 263-274, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.11.069.
+(http://www.sciencedirect.com/science/article/pii/S0360544214013243)
+Keywords: Electric vehicles; EnergyPLAN; Energy system; Solar photovoltaic; Energy scenario
+
+Luis Vazquez, Jesús María Blanco, Rolando Ramis, Francisco Peña, David Diaz, Robust methodology for steady state measurements estimation based framework for a reliable long term thermal power plant operation performance monitoring, Energy, Volume 93, Part 1, 15 December 2015, Pages 923-944, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.09.044.
+(http://www.sciencedirect.com/science/article/pii/S0360544215012542)
+Keywords: Steady-state identification; Long-term operation performance monitoring; Economic plant-wide control; Steam generation; Slow developing disturbances
+
+M.A. Rosen, Assessment of various scenarios for utility-based cogeneration in Ontario, Energy, Volume 19, Issue 11, November 1994, Pages 1143-1149, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(94)90070-1.
+(http://www.sciencedirect.com/science/article/pii/0360544294900701)
+
+Clarence Zener, Martin Greenstein, A foam OTEC system, Energy, Volume 5, Issue 6, June 1980, Pages 503-509, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90074-2.
+(http://www.sciencedirect.com/science/article/pii/0360544280900742)
+
+Martin Goldsmith, Engineering aspects of geothermal development with emphasis on the Imperial Valley of California, Energy, Volume 3, Issue 2, April 1978, Pages 127-148, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(78)90066-X.
+(http://www.sciencedirect.com/science/article/pii/036054427890066X)
+
+Chia-Ying Chang, Frederick N.-F. Chou, Yang-Yih Chen, Yi-Chern Hsieh, Chia-Tzu Chang, Analytical and experimental investigation of hydrodynamic performance and chamber optimization of oscillating water column system, Energy, Volume 113, 15 October 2016, Pages 597-614, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.06.117.
+(http://www.sciencedirect.com/science/article/pii/S036054421630891X)
+Keywords: Renewable energy; Oscillating water column; Wave energy; Experiment; Numerical
+
+A. Broatch, X. Margot, R. Novella, J. Gomez-Soriano, Combustion noise analysis of partially premixed combustion concept using gasoline fuel in a 2-stroke engine, Energy, Volume 107, 15 July 2016, Pages 612-624, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.04.045.
+(http://www.sciencedirect.com/science/article/pii/S0360544216304510)
+Keywords: Gasoline PPC; Combustion noise; 2-stroke CI engine; CFD model validation
+
+W.D. Turner, Energy recovery from mass burning of refuse in waterwalled incinerators, Energy, Volume 10, Issue 1, January 1985, Pages 41-56, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(85)90018-0.
+(http://www.sciencedirect.com/science/article/pii/0360544285900180)
+
+Cláudio P. Pinto, Arnaldo Walter, The potential contribution of thermo power plants in the Brazilian electric sector, Energy, Volume 36, Issue 6, June 2011, Pages 3667-3674, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.08.034.
+(http://www.sciencedirect.com/science/article/pii/S0360544210004706)
+Keywords: Energy systems; Energy policy; Thermal power production; Hydro power production; Biomass expansion
+
+Yu-chao Zeng, Jie-min Zhan, Neng-you Wu, Ying-ying Luo, Wen-hao Cai, Numerical simulation of electricity generation potential from fractured granite reservoir through vertical wells at Yangbajing geothermal field, Energy, Volume 103, 15 May 2016, Pages 290-304, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.02.123.
+(http://www.sciencedirect.com/science/article/pii/S0360544216301852)
+Keywords: Vertical well; Yangbajing geothermal field; Fractured granite reservoir; Heat production; Electric power
+
+Constantine D. Rakopoulos, Athanasios M. Dimaratos, Evangelos G. Giakoumis, Dimitrios C. Rakopoulos, Investigating the emissions during acceleration of a turbocharged diesel engine operating with bio-diesel or n-butanol diesel fuel blends, Energy, Volume 35, Issue 12, December 2010, Pages 5173-5184, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.07.049.
+(http://www.sciencedirect.com/science/article/pii/S036054421000424X)
+Keywords: Turbocharged diesel engine; Transient emissions; Bio-diesel; n-Butanol; Nitric oxide; Smoke opacity
+
+Hyun-Min Kim, Mi-Ae Moon, Kwang-Yong Kim, Multi-objective optimization of a cooling channel with staggered elliptic dimples, Energy, Volume 36, Issue 5, May 2011, Pages 3419-3428, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.03.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544211002118)
+Keywords: Dimple; Cooling channel; Design optimization; Kriging model; RANS analysis
+
+Sérgio Pereira, Paula Ferreira, A.I.F. Vaz, Short-term electricity planning with increase wind capacity, Energy, Volume 69, 1 May 2014, Pages 12-22, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.037.
+(http://www.sciencedirect.com/science/article/pii/S0360544214000450)
+Keywords: Wind power; Electricity planning; Renewable energy sources; Thermal power; Hydropower
+
+Eric J. Jeffs, The application potential of hydro power, Energy, Volume 4, Issue 5, October 1979, Pages 841-849, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(79)90016-1.
+(http://www.sciencedirect.com/science/article/pii/0360544279900161)
+
+Xiaoyu Liu, Dingjiang Chen, Wenjun Zhang, Weizhong Qin, Wenji Zhou, Tong Qiu, Bing Zhu, An assessment of the energy-saving potential in China's petroleum refining industry from a technical perspective, Energy, Volume 59, 15 September 2013, Pages 38-49, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.07.049.
+(http://www.sciencedirect.com/science/article/pii/S0360544213006555)
+Keywords: Petroleum refining industry; Energy conservation; Process improvement; Potential analysis; China
+
+Francesco Calise, Gabriele Ferruzzi, Laura Vanoli, Transient simulation of polygeneration systems based on PEM fuel cells and solar heating and cooling technologies, Energy, Volume 41, Issue 1, May 2012, Pages 18-30, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.05.027.
+(http://www.sciencedirect.com/science/article/pii/S0360544211003525)
+Keywords: Solar energy; Fuel cell; Polygeneration
+
+C.D. Rakopoulos, Olive oil as a fuel supplement in DI and IDI diesel engines, Energy, Volume 17, Issue 8, August 1992, Pages 787-790, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(92)90122-G.
+(http://www.sciencedirect.com/science/article/pii/036054429290122G)
+
+F. Calise, M. Dentice d'Accadia, A. Piacentino, Exergetic and exergoeconomic analysis of a renewable polygeneration system and viability study for small isolated communities, Energy, Volume 92, Part 3, 1 December 2015, Pages 290-307, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.03.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544215003618)
+Keywords: Solar Heating and Cooling; Solar desalination; Photovoltaic thermal collectors; Multiple effects distillation; Exergy analysis; Exergoeconomics
+
+J. Uche, F. Círez, A.A. Bayod, A. Martínez, On-grid and off-grid batch-ED (electrodialysis) process: Simulation and experimental tests, Energy, Volume 57, 1 August 2013, Pages 44-54, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544213001709)
+Keywords: Brackish water desalination; Desalination modeling; ED + PV pilot plant; ED (electrodialysis); Photovoltaics; RES integration
+
+Jyoti Parikh, Pallav Purohit, Pallavi Maitra, Demand projections of petroleum products and natural gas in India, Energy, Volume 32, Issue 10, October 2007, Pages 1825-1837, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2007.02.008.
+(http://www.sciencedirect.com/science/article/pii/S0360544207000382)
+Keywords: Demand projections; Petroleum products and natural gas; Econometric models; 11th Five Year Plan
+
+I.I. Glass, Prospects for geothermal energy applications and utilization in Canada, Energy, Volume 2, Issue 4, December 1977, Pages 407-428, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(77)90005-6.
+(http://www.sciencedirect.com/science/article/pii/0360544277900056)
+
+N.N. Ponomarev-Stepnoy, V.N. Grebennik, E.S. Glushkov, A.A. Khrulev, A.I. Kiryushin, V.V. Bulygin, Development prospects of high-temperature gas-cooled reactors and their role in nuclear power, Energy, Volume 16, Issues 1–2, January–February 1991, Pages 119-127, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(91)90092-Z.
+(http://www.sciencedirect.com/science/article/pii/036054429190092Z)
+
+K.E. N'Tsoukpoe, N. Le Pierrès, L. Luo, Experimentation of a LiBr–H2O absorption process for long-term solar thermal storage: Prototype design and first results, Energy, Volume 53, 1 May 2013, Pages 179-198, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.02.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544213001370)
+Keywords: Solar energy; Long-term thermal storage; Lithium bromide/water; Absorption systems; Experiment; Prototype
+
+Robert U. Ayres, Leslie W. Ayres, Vladimir Pokrovsky, On the efficiency of US electricity usage since 1900, Energy, Volume 30, Issue 7, June 2005, Pages 1092-1145, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.07.012.
+(http://www.sciencedirect.com/science/article/pii/S036054420400324X)
+
+Huifeng Zhang, Jianzhong Zhou, Na Fang, Rui Zhang, Yongchuan Zhang, Daily hydrothermal scheduling with economic emission using simulated annealing technique based multi-objective cultural differential evolution approach, Energy, Volume 50, 1 February 2013, Pages 24-37, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.12.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544212009024)
+Keywords: Hydrothermal system; Transmission loss; Simulated annealing technique; Cultural knowledge structure; Premature convergence; Convergence and diversity metric
+
+Mehmet F. Orhan, Binish S. Babu, Investigation of an integrated hydrogen production system based on nuclear and renewable energy sources: Comparative evaluation of hydrogen production options with a regenerative fuel cell system, Energy, Volume 88, August 2015, Pages 801-820, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2015.06.009.
+(http://www.sciencedirect.com/science/article/pii/S0360544215007148)
+Keywords: Thermodynamic analysis; Solar; Nuclear; Fuel cell; Hydrogen
+
+Rijo Jacob Thomas, Parthasarathi Ghosh, Kanchan Chowdhury, Application of exergy analysis in designing helium liquefiers, Energy, Volume 37, Issue 1, January 2012, Pages 207-219, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.044.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007754)
+Keywords: Helium liquefier design; Exergy analysis; Exergy destruction; Heat exchanger; Expander; Pressure drop
+
+S. Tonon, M.T. Brown, F. Luchi, A. Mirandola, A. Stoppato, S. Ulgiati, An integrated assessment of energy conversion processes by means of thermodynamic, economic and environmental parameters, Energy, Volume 31, Issue 1, January 2006, Pages 149-163, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.04.056.
+(http://www.sciencedirect.com/science/article/pii/S0360544204002452)
+
+D.H. Johnson, The exergy of the ocean thermal resource and analysis of second-law efficiencies of idealized ocean thermal energy conversion power cycles, Energy, Volume 8, Issue 12, December 1983, Pages 927-946, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(83)90092-0.
+(http://www.sciencedirect.com/science/article/pii/0360544283900920)
+
+Hiroshl Murata, Nuclear power development in Japan, Energy, Volume 9, Issues 9–10, September–October 1984, Pages 751-759, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(84)90006-9.
+(http://www.sciencedirect.com/science/article/pii/0360544284900069)
+
+José M. Desantes, Jesús Benajes, Antonio García, Javier Monsalve-Serrano, The role of the in-cylinder gas temperature and oxygen concentration over low load reactivity controlled compression ignition combustion efficiency, Energy, Volume 78, 15 December 2014, Pages 854-868, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.10.080.
+(http://www.sciencedirect.com/science/article/pii/S0360544214012304)
+Keywords: RCCI; Low load; Combustion efficiency; EURO VI; Oxygen concentration; Intake temperature
+
+R. Partl, Power from glaciers: the hydropower potential of Greenland's glacial waters, Energy, Volume 3, Issue 5, October 1978, Pages 543-573, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(78)90072-5.
+(http://www.sciencedirect.com/science/article/pii/0360544278900725)
+
+Yu-Chao Zeng, Neng-You Wu, Zheng Su, Jian Hu, Numerical simulation of electricity generation potential from fractured granite reservoir through a single horizontal well at Yangbajing geothermal field, Energy, Volume 65, 1 February 2014, Pages 472-487, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.10.084.
+(http://www.sciencedirect.com/science/article/pii/S0360544213009511)
+Keywords: Single horizontal well; Electricity generation potential; Fractured granite reservoir; Water mining; Yangbajing geothermal field
+
+Ana C. Ferreira, Manuel L. Nunes, José C.F. Teixeira, Luís A.S.B. Martins, Senhorinha F.C.F. Teixeira, Thermodynamic and economic optimization of a solar-powered Stirling engine for micro-cogeneration purposes, Energy, Volume 111, 15 September 2016, Pages 1-17, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.05.091.
+(http://www.sciencedirect.com/science/article/pii/S0360544216307101)
+Keywords: Optimization; Solar-powered Stirling engine; Thermal-economic analysis; Micro-cogeneration; Numerical simulation
+
+J.E.I. Wilson, I. Glendenning, B. Bourgeois, I. Fells, D.R. Glenn, D. Golibersuch, K. Hannes, H. Hörster, J.A. Knobbout, P.A. Lowe, C.F. Meyer, W. Murgatroyd, J. Pouget, T.R. Schneider, J.B. Siviour, T. Thalhammer, The impact of TES on energy structures, Energy, Volume 2, Issue 1, March 1977, Pages 86-101, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(77)90025-1.
+(http://www.sciencedirect.com/science/article/pii/0360544277900251)
+
+Kay Damen, André Faaij, Frank van Bergen, John Gale, Erik Lysen, Identification of early opportunities for CO2 sequestration—worldwide screening for CO2-EOR and CO2-ECBM projects, Energy, Volume 30, Issue 10, July 2005, Pages 1931-1952, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2004.10.002.
+(http://www.sciencedirect.com/science/article/pii/S0360544204004621)
+
+Hussam Zebian, Alexander Mitsos, A split concept for HRSG (heat recovery steam generators) with simultaneous area reduction and performance improvement, Energy, Volume 71, 15 July 2014, Pages 421-431, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.04.087.
+(http://www.sciencedirect.com/science/article/pii/S0360544214005003)
+Keywords: HRSG optimization; Heat exchanger; Multi-variable optimization; Flue gas recycling
+
+André Stephan, Laurent Stephan, Reducing the total life cycle energy demand of recent residential buildings in Lebanon, Energy, Volume 74, 1 September 2014, Pages 618-637, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.07.028.
+(http://www.sciencedirect.com/science/article/pii/S0360544214008500)
+Keywords: Life cycle energy analysis; Lebanon; Apartment buildings; Embodied energy; Transport energy; Mediterranean
+
+William R. Oullette, Adrian Bejan, Conservation of available work (exergy) by using promoters of swirl flow in forced convection heat transfer, Energy, Volume 5, Issue 7, July 1980, Pages 587-596, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90039-0.
+(http://www.sciencedirect.com/science/article/pii/0360544280900390)
+
+Wen Bao, Silong Zhang, Jiang Qin, Weixing Zhou, Kaili Xie, Numerical analysis of flowing cracked hydrocarbon fuel inside cooling channels in view of thermal management, Energy, Volume 67, 1 April 2014, Pages 149-161, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.01.044.
+(http://www.sciencedirect.com/science/article/pii/S0360544214000528)
+Keywords: Thermal management; Cracking reaction; 3-D phenomena; Fuel heat sink; Nonuniformity coefficient
+
+, Chapter 2 Energy conversion, conservation, and efficiency, Energy, Volume 18, Issue 5, May 1993, Pages 421-435, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(93)90021-5.
+(http://www.sciencedirect.com/science/article/pii/0360544293900215)
+
+M.J. Pasqualetti, Geothermal energy and the environment: The global experience, Energy, Volume 5, Issue 2, February 1980, Pages 111-165, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90004-3.
+(http://www.sciencedirect.com/science/article/pii/0360544280900043)
+
+M. Reali, Closed cycle osmotic power plants for electric power production, Energy, Volume 5, Issue 4, April 1980, Pages 325-329, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90033-X.
+(http://www.sciencedirect.com/science/article/pii/036054428090033X)
+
+N.D. Mancini, A. Mitsos, Ion transport membrane reactors for oxy-combustion – Part I: intermediate-fidelity modeling, Energy, Volume 36, Issue 8, August 2011, Pages 4701-4720, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.05.023.
+(http://www.sciencedirect.com/science/article/pii/S0360544211003483)
+Keywords: Oxy-combustion; Ion transport membranes; Reduced-order modeling; Reactor engineering
+
+M. Badami, M. Mura, P. Campanile, F. Anzioso, Design and performance evaluation of an innovative small scale combined cycle cogeneration system, Energy, Volume 33, Issue 8, August 2008, Pages 1264-1276, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2008.03.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544208000844)
+Keywords: Small-scale CHP; Cogeneration; Distributed generation; Internal combustion engine; Steam engine; Rankine cycle
+
+Moshe Levy, Rachamin Rubin, Hadassa Rosin, Rachel Levitan, Methane reforming by direct solar irradiation of the catalyst, Energy, Volume 17, Issue 8, August 1992, Pages 749-756, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(92)90117-I.
+(http://www.sciencedirect.com/science/article/pii/036054429290117I)
+
+Danahe Marmolejo-Correa, Truls Gundersen, A comparison of exergy efficiency definitions with focus on low temperature processes, Energy, Volume 44, Issue 1, August 2012, Pages 477-489, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.06.001.
+(http://www.sciencedirect.com/science/article/pii/S0360544212004513)
+Keywords: Exergy components; Efficiency; Natural gas liquefaction; PRICO; LNG
+
+W. Murgatroyd, B.C. Wilkins, The efficiency of electric motive power in industry, Energy, Volume 1, Issue 4, December 1976, Pages 337-345, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(76)90065-7.
+(http://www.sciencedirect.com/science/article/pii/0360544276900657)
+
+Siddhartha, Naveen Sharma, Varun, A particle swarm optimization algorithm for optimization of thermal performance of a smooth flat plate solar air heater, Energy, Volume 38, Issue 1, February 2012, Pages 406-413, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.11.026.
+(http://www.sciencedirect.com/science/article/pii/S0360544211007444)
+Keywords: Thermal performance; Solar air heater; Particle swarm optimization algorithm
+
+Preston Lowrey, Jeff Harasha, A preliminary assessment of the feasibility of using riblets in internal flows to conserve energy, Energy, Volume 16, Issue 3, March 1991, Pages 631-642, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(91)90034-J.
+(http://www.sciencedirect.com/science/article/pii/036054429190034J)
+
+Erhard Arndt, Reimer Fischer, Design status of the HTR 500 power plant and the HTR module power plant, Energy, Volume 16, Issues 1–2, January–February 1991, Pages 201-219, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(91)90101-Q.
+(http://www.sciencedirect.com/science/article/pii/036054429190101Q)
+
+M. Mohamed Thameem Ansari, S. Velusami, DMLHFLC (Dual mode linguistic hedge fuzzy logic controller) for an isolated wind–diesel hybrid power system with BES (battery energy storage) unit, Energy, Volume 35, Issue 9, September 2010, Pages 3827-3837, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.05.037.
+(http://www.sciencedirect.com/science/article/pii/S0360544210003075)
+Keywords: Wind–diesel hybrid power system; BES (battery energy storage) unit; DMLHFLC (Dual mode linguistic hedge fuzzy logic controller)
+
+S.S. Penner, S.B. Alpert, V. Bendanillo, J. Clardy, L.E. Furlong, F. Leder, L. Lees, E. Reichl, J. Ross, R.P. Sieg, A.M. Squires, J. Thomas, Research needs for coal gasification and coal liquefaction, Energy, Volume 5, Issue 11, November 1980, Pages 1091-1116, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90081-X.
+(http://www.sciencedirect.com/science/article/pii/036054428090081X)
+
+Peter H. Gleick, Environmental consequences of hydroelectric development: The role of facility size and type, Energy, Volume 17, Issue 8, August 1992, Pages 735-747, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(92)90116-H.
+(http://www.sciencedirect.com/science/article/pii/036054429290116H)
+
+C. Dong, G.H. Huang, Y.P. Cai, Y. Liu, An inexact optimization modeling approach for supporting energy systems planning and air pollution mitigation in Beijing city, Energy, Volume 37, Issue 1, January 2012, Pages 673-688, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.10.030.
+(http://www.sciencedirect.com/science/article/pii/S036054421100689X)
+Keywords: Decision making; Inexact Beijing energy model; Energy management system; Air pollution; Management; Uncertainty
+
+Said M.A. Ibrahim, Energy in Egypt: Resources, uses, and outlook to 2000, Energy, Volume 4, Issue 6, December 1979, Pages 1069-1077, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(79)90097-5.
+(http://www.sciencedirect.com/science/article/pii/0360544279900975)
+
+G. Venkatesh, Helge Brattebø, Energy consumption, costs and environmental impacts for urban water cycle services: Case study of Oslo (Norway), Energy, Volume 36, Issue 2, February 2011, Pages 792-800, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2010.12.040.
+(http://www.sciencedirect.com/science/article/pii/S0360544210007309)
+Keywords: Biogas; Energy; Environmental impacts; GHG emissions; Pipelines; Water and wastewater treatment
+
+John B. Robinson, An embarrassment of riches: Canada's energy supply resources, Energy, Volume 12, Issue 5, May 1987, Pages 379-402, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(87)90108-3.
+(http://www.sciencedirect.com/science/article/pii/0360544287901083)
+
+Doan L. Phung, Economics of nuclear power: Past record, present trends and future prospects, Energy, Volume 10, Issue 8, August 1985, Pages 917-934, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(85)90004-0.
+(http://www.sciencedirect.com/science/article/pii/0360544285900040)
+
+G. Orian, M. Jelinek, A. Levy, Flow boiling of binary solution in horizontal tube, Energy, Volume 35, Issue 1, January 2010, Pages 35-44, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2009.08.024.
+(http://www.sciencedirect.com/science/article/pii/S0360544209003648)
+Keywords: Heat transfer coefficient; Flow boiling; Mixture boiling; Binary solution
+
+Jean-Michel Guldmann, Brent D. Rosenthal, Modeling the interactions between geothermal energy use and urban structure, Energy, Volume 6, Issue 4, April 1981, Pages 351-368, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90078-5.
+(http://www.sciencedirect.com/science/article/pii/0360544281900785)
+
+G. Venkatesh, Rashid Abdi Elmi, Economic–environmental analysis of handling biogas from sewage sludge digesters in WWTPs (wastewater treatment plants) for energy recovery: Case study of Bekkelaget WWTP in Oslo (Norway), Energy, Volume 58, 1 September 2013, Pages 220-235, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2013.05.025.
+(http://www.sciencedirect.com/science/article/pii/S0360544213004325)
+Keywords: Anaerobic digester; Combined Heat and Power Plant; Biogas; Transportation fuel; Wastewater treatment plant
+
+Herbert W. Hevert, Stephen C. Hevert, Second law analysis: An alternative indicator of system efficiency, Energy, Volume 5, Issues 8–9, August–September 1980, Pages 865-873, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(80)90102-4.
+(http://www.sciencedirect.com/science/article/pii/0360544280901024)
+
+J.C. Fair, O.A. Larson, H.H. Hasiba, An evaluation of in situ coal gasification, Energy, Volume 1, Issue 1, March 1976, Pages 77-94, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(76)90059-1.
+(http://www.sciencedirect.com/science/article/pii/0360544276900591)
+
+Sukhmeet Singh, Subhash Chander, J.S. Saini, Heat transfer and friction factor correlations of solar air heater ducts artificially roughened with discrete V-down ribs, Energy, Volume 36, Issue 8, August 2011, Pages 5053-5064, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2011.05.052.
+(http://www.sciencedirect.com/science/article/pii/S036054421100377X)
+Keywords: Rib roughness parameters; Relative roughness pitch; Relative gap position; Angle of attack; Relative gap width
+
+G. Venkatesh, Arthur Chan, Helge Brattebø, Understanding the water-energy-carbon nexus in urban water utilities: Comparison of four city case studies and the relevant influencing factors, Energy, Volume 75, 1 October 2014, Pages 153-166, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2014.06.111.
+(http://www.sciencedirect.com/science/article/pii/S0360544214008160)
+Keywords: GHG emissions; Water; Energy; Urban water systems; Water treatment; Wastewater treatment
+
+, 2. Phosphoric acid fuel cells (PAFCs), Energy, Volume 11, Issues 1–2, January–February 1986, Pages 13-94, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(86)90097-6.
+(http://www.sciencedirect.com/science/article/pii/0360544286900976)
+
+Marc Ross, Industrial energy conservation and the steel industry of the United States, Energy, Volume 12, Issues 10–11, October–November 1987, Pages 1135-1152, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(87)90069-7.
+(http://www.sciencedirect.com/science/article/pii/0360544287900697)
+
+Robert J. Budnitz, What we now know (and don't know) about reactor safety, Energy, Volume 9, Issues 9–10, September–October 1984, Pages 943-953, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(84)90025-2.
+(http://www.sciencedirect.com/science/article/pii/0360544284900252)
+
+Alvin M. Weinberg, Irving Spiewak, Doan L. Phung, Robert S. Livingston, The second nuclear ERA: A nuclear renaissance, Energy, Volume 10, Issue 5, May 1985, Pages 661-680, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(85)90098-2.
+(http://www.sciencedirect.com/science/article/pii/0360544285900982)
+
+Luiz Augusto Marciano Da Fonseca, The Latin American Energy Organization (Olade), Energy, Volume 6, Issue 8, August 1981, Pages 861-877, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90129-8.
+(http://www.sciencedirect.com/science/article/pii/0360544281901298)
+
+E.B. Forsyth, Superconducting power transmission: The perils and promise, Energy, Volume 1, Issue 2, June 1976, Pages 111-122, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(76)90010-4.
+(http://www.sciencedirect.com/science/article/pii/0360544276900104)
+
+S.S. Penner, W.S. Bergen, J. Clardy, J.M. Hopkins, A.E. Kelley, R.R. Lessard, A.E. Lewis, A.G. Oblad, J. Ross, R.P. Sieg, J.R. Thomas, M.A. Weiss, P.B. Weisz, Research needs for shale-oil recovery, Energy, Volume 6, Issue 12, December 1981, Pages 1363-1404, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90067-0.
+(http://www.sciencedirect.com/science/article/pii/0360544281900670)
+
+Shishir K. Mukherjee, Energy policy and planning in India, Energy, Volume 6, Issue 8, August 1981, Pages 823-851, ISSN 0360-5442, http://dx.doi.org/10.1016/0360-5442(81)90126-2.
+(http://www.sciencedirect.com/science/article/pii/0360544281901262)
+
+Zhiqiang Jiang, Anqiang Li, Changming Ji, Hui Qin, Shan Yu, Yuanzheng Li, Research and application of key technologies in drawing energy storage operation chart by discriminant coefficient method, Energy, Volume 114, 1 November 2016, Pages 774-786, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2016.08.043.
+(http://www.sciencedirect.com/science/article/pii/S0360544216311562)
+Keywords: Cascade reservoirs; Operation chart; Drawing model; Key technologies; Discriminant coefficient method
+
+Guozhong Zheng, Feng Li, Zhe Tian, Neng Zhu, Qianru Li, Han Zhu, Operation strategy analysis of a geothermal step utilization heating system, Energy, Volume 44, Issue 1, August 2012, Pages 458-468, ISSN 0360-5442, http://dx.doi.org/10.1016/j.energy.2012.06.006.
+(http://www.sciencedirect.com/science/article/pii/S0360544212004574)
+Keywords: Geothermal energy; Step utilization; Operation strategy; Heat pump
+
+
